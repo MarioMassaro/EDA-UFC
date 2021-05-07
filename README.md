@@ -1,2 +1,17 @@
 # EDA-UFC
-Un análisis exploratorio de datos de interés personal sobre la ufc
+## Un análisis exploratorio de datos de interés personal sobre la UFC
+
+### Utiliza la informacion desde las peleas del 1983 hasta el 2016, en este proyecto se pueden ver los datos de los peleadores explicados con graficas simples de entender
+  -Nacionalidades mas populares entre peleadores de ambos generos
+  -Finalizacion mas comunes durante las peleas
+  -Distribucion en clases de peso
+  -Porcentaje de victorias por diferencia de peso y tamaño
+  -Esquina de ring con mas victorias
+  -Peleadores mas populares con mas apariciones
+  -Peleas por año
+  
+### Este proyecto tiene todos los procedimientos, toda la limpieza de datos y los dataframes originales
+
+Cree este proyecto porque estaba interezado en ver si algunos peleadores podian obtener cierta ventaja antes de la pelea, pense en factores fisicos y mentales, como tamaño del cuerpo, alcanze, peso, racha de victorias/derrotas anteriores. La conclusion fue clara, entre mas la diferencia en tamaño el mas alto tenia cierta ventaja que se podia ver en las graficas, igual estamos hablando de un 2% de diferencia con respecto al otro peleador, pero existe esa pequeña ventaja. Por el tema de pesos, ya que las luchas tienen clases por pesos no habia mucha diferencia pero al igual que el tamaño el mas pesado solia tener una pequeña ventaja. en cuanto al factor psicologico como las rachas, no salio ninguna informacion realmente notable asi que decidi quedarme en el fisico.
+
+## Por lo tanto conclui que el peleador deberia estar en el top de los requerimientos de su clase de peso teniendo el maximo peso y tamaño permitido, ya que podria darle cierta ventaja en su liga.
