@@ -1,7 +1,7 @@
 # EDA-UFC
 ## Un análisis exploratorio de datos de interés personal sobre la UFC
 
-![Ufc](https://github.com/MarioMassaro/EDA-UFC/tree/main/src/data/mma.PNG)
+![](https://github.com/MarioMassaro/EDA-UFC/tree/main/src/data/to/mma.PNG)
 
 ### Utiliza la informacion desde las peleas del 1983 hasta el 2016, en este proyecto se pueden ver los datos de los peleadores explicados con graficas simples de entender:
 
