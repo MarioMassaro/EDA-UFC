@@ -1,15 +1,15 @@
 # EDA-UFC
 ## Un análisis exploratorio de datos de interés personal sobre la UFC
 
-### Utiliza la informacion desde las peleas del 1983 hasta el 2016, en este proyecto se pueden ver los datos de los peleadores explicados con graficas simples de entender
+### Utiliza la informacion desde las peleas del 1983 hasta el 2016, en este proyecto se pueden ver los datos de los peleadores explicados con graficas simples de entender:
 
--Nacionalidades mas populares entre peleadores de ambos generos
--Finalizacion mas comunes durante las peleas
--Distribucion en clases de peso
--Porcentaje de victorias por diferencia de peso y tamaño
--Esquina de ring con mas victorias
--Peleadores mas populares con mas apariciones
--Peleas por año
+  -Nacionalidades mas populares entre peleadores de ambos generos
+  -Finalizacion mas comunes durante las peleas
+  -Distribucion en clases de peso
+  -Porcentaje de victorias por diferencia de peso y tamaño
+  -Esquina de ring con mas victorias
+  -Peleadores mas populares con mas apariciones
+  -Peleas por año
   
 ### Este proyecto tiene todos los procedimientos, toda la limpieza de datos y los dataframes originales
 
