@@ -1,0 +1,1562 @@
+#,name,height,weight,class,country
+0,Conor McGregor,68.0,145.0,Featherweight,Ireland
+1,Jon Jones,76.0,205.0,Light Heavyweight,United States
+2,Holly Holm,68.0,135.0,Bantamweight,United States
+3,Dominick Cruz,68.0,134.0,Bantamweight,United States
+4,Demetrious Johnson,63.0,125.0,Flyweight,United States
+5,Ronda Rousey,66.0,135.0,Bantamweight,United States
+6,Fabricio Werdum,76.0,242.0,Heavyweight,Brazil
+7,Robbie Lawler,71.0,170.0,Welterweight,United States
+8,Jose Aldo,67.0,145.0,Featherweight,Brazil
+9,Chad Mendes,66.0,145.0,Featherweight,United States
+10,Dustin Poirier,69.0,155.0,Lightweight,United States
+11,Marcus Brimage,64.0,135.0,Bantamweight,United States
+12,Diego Brandao,67.0,145.0,Featherweight,Brazil
+13,Max Holloway,71.0,145.0,Featherweight,United States
+14,Joseph Duffy,70.0,155.0,Lightweight,Ireland
+15,Kevin Randleman,70.0,205.0,Light Heavyweight,United States
+16,Vitor Belfort,72.0,185.0,Middleweight,Brazil
+17,Rashad Evans,71.0,205.0,Light Heavyweight,United States
+18,Ryan Bader,74.0,205.0,Light Heavyweight,United States
+19,Michael Bisping,74.0,185.0,Middleweight,England
+20,Alexander Gustafsson,76.0,205.0,Light Heavyweight,Sweden
+21,Vladimir Matyushenko,73.0,205.0,Light Heavyweight,Belarus
+22,Lyoto Machida,73.0,185.0,Middleweight,Brazil
+23,Quinton Jackson,73.0,206.0,Light Heavyweight,United States
+24,Brandon Vera,74.0,205.0,Light Heavyweight,United States
+25,Mauricio Rua,73.0,205.0,Light Heavyweight,Brazil
+26,Stephan Bonnar,75.0,205.0,Light Heavyweight,United States
+27,Mark Kerr,75.0,255.0,Heavyweight,United States
+28,James Toney,70.0,237.0,Heavyweight,United States
+29,Randy Couture,73.0,203.0,Light Heavyweight,United States
+30,Marion Reneau,66.0,135.0,Bantamweight,United States
+31,Anthony Pettis,69.0,155.0,Lightweight,United States
+32,Miesha Tate,66.0,135.0,Bantamweight,United States
+33,Donald Cerrone,71.0,155.0,Lightweight,United States
+34,Raquel Pennington,67.0,135.0,Bantamweight,United States
+35,Alex Oliveira,71.0,155.0,Lightweight,Brazil
+36,Urijah Faber,66.0,135.0,Bantamweight,United States
+37,Scott Jorgensen,65.0,135.0,Bantamweight,United States
+38,Ian McCall,65.0,125.0,Flyweight,United States
+39,Chris Weidman,74.0,185.0,Middleweight,United States
+40,Paul Bradley,69.0,170.0,Welterweight,United States
+41,Tim Boetsch,71.0,205.0,Light Heavyweight,United States
+42,Ronaldo Souza,72.0,184.0,Middleweight,Brazil
+43,Junior dos Santos,76.0,239.0,Heavyweight,Brazil
+44,Jesse Taylor,73.0,185.0,Middleweight,United States
+45,Stephen Thompson,72.0,170.0,Welterweight,United States
+46,Keith Jardine,74.0,185.0,Middleweight,United States
+47,Dan Henderson,73.0,185.0,Middleweight,United States
+48,Kevin Ferguson,74.0,225.0,Heavyweight,United States
+49,Ken Shamrock,73.0,212.0,Heavyweight,United States
+50,Anthony Johnson,74.0,205.0,Light Heavyweight,United States
+51,Antonio Rodrigo Nogueira,75.0,240.0,Heavyweight,Brazil
+52,Joe Doerksen,72.0,186.0,Middleweight,Canada
+53,Carlos Condit,73.0,170.0,Welterweight,United States
+54,Tim Hague,76.0,264.0,Heavyweight,Canada
+55,Houston Alexander,72.0,203.0,Light Heavyweight,United States
+56,Jared Cannonier,75.0,244.0,Heavyweight,United States
+57,Shamil Abdurakhimov,75.0,255.0,Heavyweight,Russia
+58,Jeremy Horn,73.0,186.0,Middleweight,United States
+59,Ilir Latifi,68.0,205.0,Light Heavyweight,Sweden
+60,Alexey Oleinik,73.0,240.0,Heavyweight,Russia
+61,Darrill Schoonover,74.0,257.0,Heavyweight,United States
+62,Jason Lambert,70.0,205.0,Light Heavyweight,United States
+63,Jeff Monson,69.0,238.0,Heavyweight,United States
+64,Mike Kyle,75.0,205.0,Light Heavyweight,United States
+65,Joey Beltran,73.0,185.0,Middleweight,United States
+66,Wes Combs,74.0,230.0,Heavyweight,United States
+67,Kyle Kingsbury,76.0,205.0,Light Heavyweight,United States
+68,Justin Levens,70.0,185.0,Middleweight,United States
+69,Benson Henderson,69.0,155.0,Lightweight,United States
+70,Kamal Shalorus,68.0,155.0,Lightweight,"Iran, Islamic Republic of"
+71,Anthony Hamilton,77.0,253.0,Heavyweight,United States
+72,Clay Guida,67.0,145.0,Featherweight,United States
+73,Jason High,69.0,155.0,Lightweight,United States
+74,Khabib Nurmagomedov,70.0,155.0,Lightweight,Russia
+75,Jeremy Stephens,69.0,145.0,Featherweight,United States
+76,Anthony Njokuani,72.0,155.0,Lightweight,United States
+77,Robert Emerson,70.0,135.0,Bantamweight,United States
+78,Henry Cejudo,64.0,125.0,Flyweight,United States
+79,John Dodson,63.0,125.0,Flyweight,United States
+80,Chris Cariaso,63.0,125.0,Flyweight,United States
+81,Ali Bagautinov,64.0,125.0,Flyweight,Russia
+82,Norifumi Yamamoto,64.0,135.0,Bantamweight,Japan
+83,Damacio Page,66.0,125.0,Flyweight,United States
+84,Brad Pickett,66.0,125.0,Flyweight,England
+85,Cat Zingano,66.0,135.0,Bantamweight,United States
+86,Alexis Davis,65.0,136.0,Bantamweight,Canada
+87,Liz Carmouche,66.0,135.0,Bantamweight,United States
+88,Roy Nelson,72.0,249.0,Heavyweight,United States
+89,Alistair Overeem,77.0,257.0,Heavyweight,Netherlands
+90,Gabriel Gonzaga,74.0,258.0,Heavyweight,Brazil
+91,Andrei Arlovski,76.0,241.0,Heavyweight,Belarus
+92,Travis Browne,79.0,236.0,Heavyweight,United States
+93,James Zikic,74.0,185.0,Middleweight,England
+94,Mark Hunt,70.0,262.0,Heavyweight,New Zealand
+95,John Olav Einemo,78.0,251.0,Heavyweight,Norway
+96,Kristof Midoux,73.0,220.0,Heavyweight,France
+97,Antonio Silva,76.0,264.0,Heavyweight,Brazil
+98,Ebenezer Fontes Braga,72.0,199.0,Light Heavyweight,Brazil
+99,Valerie Letourneau,67.0,116.0,Strawweight,Canada
+100,Rosi Sexton,63.0,135.0,Bantamweight,England
+101,Juliana Lima,65.0,115.0,Strawweight,Brazil
+102,Claudia Gadelha,63.0,115.0,Strawweight,Brazil
+103,Carla Esparza,61.0,115.0,Strawweight,United States
+104,Johny Hendricks,69.0,170.0,Welterweight,United States
+105,Jake Ellenberger,69.0,170.0,Welterweight,United States
+106,Matt Brown,72.0,170.0,Welterweight,United States
+107,Jessica Aguilar,64.0,115.0,Strawweight,United States
+108,Renato Sobral,72.0,205.0,Light Heavyweight,Brazil
+109,Lorenz Larkin,71.0,170.0,Welterweight,United States
+110,Rory MacDonald,71.0,170.0,Welterweight,Canada
+111,Adlan Amagov,71.0,170.0,Welterweight,Russia
+112,Bobby Voelker,72.0,171.0,Welterweight,United States
+113,Jason Miller,72.0,185.0,Middleweight,United States
+114,Josh Koscheck,70.0,170.0,Welterweight,United States
+115,Scott Smith,72.0,185.0,Middleweight,United States
+116,Matt Lindland,72.0,185.0,Middleweight,United States
+117,Frank Trigg,68.0,181.0,Middleweight,United States
+118,Falaniko Vitale,70.0,185.0,Middleweight,United States
+119,Pete Spratt,69.0,170.0,Welterweight,United States
+120,Chris Lytle,71.0,170.0,Welterweight,United States
+121,Steve Berger,70.0,170.0,Welterweight,United States
+122,Chris Leben,71.0,185.0,Middleweight,United States
+123,Dean Lister,73.0,185.0,Middleweight,United States
+124,Danillo Villefort,73.0,186.0,Middleweight,United States
+125,Ronald Jhun,71.0,170.0,Welterweight,United States
+126,Phil Baroni,69.0,170.0,Welterweight,United States
+127,David Loiseau,72.0,192.0,Light Heavyweight,Canada
+128,Jorge Santiago,73.0,170.0,Welterweight,Brazil
+129,Tim Credeur,75.0,185.0,Middleweight,United States
+130,David Terrell,72.0,185.0,Middleweight,USA
+131,Julie Kedzie,65.0,135.0,Bantamweight,United States
+132,Seth Petruzelli,72.0,205.0,Light Heavyweight,United States
+133,Todd Medina,70.0,205.0,Light Heavyweight,United States
+134,Jorge Rivera,73.0,185.0,Middleweight,United States
+135,Steven Ray,70.0,155.0,Lightweight,Scotland
+136,Mairbek Taisumov,69.0,155.0,Lightweight,Russia
+137,Chan Sung Jung,69.0,145.0,Featherweight,South Korea
+138,Ricardo Lamas,68.0,145.0,Featherweight,United States
+139,Kenny Florian,70.0,145.0,Featherweight,United States
+140,Frankie Edgar,66.0,145.0,Featherweight,United States
+141,Manny Gamburyan,65.0,135.0,Bantamweight,United States
+142,Mark Hominick,68.0,145.0,Featherweight,Canada
+143,Phil Harris,65.0,125.0,Flyweight,England
+144,Michihiro Omigawa,66.0,145.0,Featherweight,Japan
+145,Cody McKenzie,72.0,170.0,Welterweight,United States
+146,Darren Elkins,70.0,145.0,Featherweight,United States
+147,Nik Lentz,68.0,145.0,Featherweight,United States
+148,Javier Vazquez,67.0,145.0,Featherweight,United States
+149,Erik Koch,70.0,145.0,Featherweight,United States
+150,Steven Siler,71.0,164.0,Welterweight,United States
+151,Pablo Garza,73.0,145.0,Featherweight,United States
+152,Yancy Medeiros,70.0,155.0,Lightweight,United States
+153,Jason Young,69.0,145.0,Featherweight,England
+154,Danny Castillo,69.0,155.0,Lightweight,United States
+155,Josh Grispi,71.0,146.0,Featherweight,United States
+156,Paul Felder,70.0,155.0,Lightweight,United States
+157,Kyle Noke,73.0,170.0,Welterweight,Australia
+158,Tatsuya Kawajiri,67.0,145.0,Featherweight,Japan
+159,Hacran Dias,68.0,145.0,Featherweight,Brazil
+160,Charles Rosa,70.0,145.0,Featherweight,United States
+161,Ross Pearson,68.0,155.0,Lightweight,England
+162,Daron Cruickshank,68.0,155.0,Lightweight,United States
+163,Diego Nunes,66.0,145.0,Featherweight,Brazil
+164,Matt Wiman,70.0,155.0,Lightweight,United States
+165,Paul Kelly,69.0,169.0,Welterweight,England
+166,Gray Maynard,68.0,155.0,Lightweight,United States
+167,B.J. Penn,69.0,145.0,Featherweight,United States
+168,Artem Lobov,69.0,146.0,Featherweight,Ireland
+169,Tom Niinimaki,69.0,145.0,Featherweight,Finland
+170,Jimmie Rivera,64.0,135.0,Bantamweight,United States
+171,Cody Garbrandt,67.0,135.0,Bantamweight,United States
+172,Maximo Blanco,68.0,145.0,Featherweight,Venezuela
+173,Jumabieke Tuerxun,66.0,135.0,Bantamweight,China
+174,Jim Hettes,69.0,145.0,Featherweight,United States
+175,Stephen Bass,69.0,145.0,Featherweight,United States
+176,Rose Namajunas,65.0,115.0,Strawweight,United States
+177,Joanne Calderwood,66.0,116.0,Strawweight,Scotland
+178,Paige VanZant,64.0,115.0,Strawweight,United States
+179,Daniel Pineda,67.0,155.0,Lightweight,United States
+180,Augusto Mendes,66.0,135.0,Bantamweight,Brazil
+181,Dennis Bermudez,66.0,145.0,Featherweight,United States
+182,Iuri Alcantara,69.0,136.0,Bantamweight,Brazil
+183,Levan Makashvili,68.0,146.0,Featherweight,United States
+184,Joey Gambino,67.0,145.0,Featherweight,United States
+185,Brian Ortega,69.0,145.0,Featherweight,United States
+186,Chas Skelly,71.0,145.0,Featherweight,United States
+187,Andre Fili,70.0,145.0,Featherweight,United States
+188,Clay Collard,71.0,145.0,Featherweight,United States
+189,Justin Lawrence,68.0,145.0,Featherweight,United States
+190,Charles Oliveira,71.0,145.0,Featherweight,Brazil
+191,Pat Schilling,68.0,145.0,Featherweight,United States
+192,Leonard Garcia,69.0,145.0,Featherweight,United States
+193,Will Chope,76.0,155.0,Lightweight,United States
+194,Cole Miller,73.0,145.0,Featherweight,United States
+195,Norman Parke,71.0,155.0,Lightweight,Northern Ireland
+196,Jake Lindsey,71.0,154.0,Lightweight,United States
+197,Paul Daley,69.0,171.0,Welterweight,England
+198,Ivan Jorge,70.0,155.0,Lightweight,Brazil
+199,Abel Trujillo,68.0,155.0,Lightweight,United States
+200,Tony Sims,71.0,155.0,Lightweight,United States
+201,Leigh Remedios,67.0,145.0,Featherweight,England
+202,Curt Warburton,72.0,155.0,Lightweight,England
+203,Maciej Jewtuszko,72.0,155.0,Lightweight,Poland
+204,Joe Riggs,72.0,170.0,Welterweight,United States
+205,Tito Ortiz,74.0,205.0,Light Heavyweight,United States
+206,Georges St. Pierre,70.0,170.0,Welterweight,Canada
+207,David Mitchell,72.0,185.0,Middleweight,United States
+208,Neil Seery,66.0,125.0,Flyweight,Ireland
+209,Patrick Holohan,69.0,125.0,Flyweight,Ireland
+210,Chuck Liddell,74.0,205.0,Light Heavyweight,United States
+211,Ron Waterman,74.0,260.0,Heavyweight,United States
+212,Mike Whitehead,73.0,261.0,Heavyweight,United States
+213,Kazuhiro Nakamura,71.0,185.0,Middleweight,Japan
+214,Mirko Filipovic,74.0,227.0,Heavyweight,Croatia
+215,Pedro Rizzo,73.0,244.0,Heavyweight,Brazil
+216,Maurice Smith,74.0,206.0,Light Heavyweight,United States
+217,Josh Barnett,75.0,248.0,Heavyweight,United States
+218,Mario Neto,72.0,229.0,Heavyweight,Brazil
+219,Pete Williams,75.0,225.0,Heavyweight,USA
+220,Dan Bobish,73.0,332.0,Super Heavyweight,United States
+221,Patrick Cummins,74.0,205.0,Light Heavyweight,United States
+222,Soa Palelei,76.0,265.0,Heavyweight,Australia
+223,James Vick,75.0,155.0,Lightweight,United States
+224,Phil Davis,74.0,205.0,Light Heavyweight,United States
+225,Glaico Franca,72.0,155.0,Lightweight,Brazil
+226,Marvin Eastman,69.0,207.0,,United States
+227,Antonio Mendes,75.0,205.0,Light Heavyweight,Brazil
+228,Ovince St. Preux,75.0,205.0,Light Heavyweight,United States
+229,Marcio Cruz,76.0,205.0,Light Heavyweight,Brazil
+230,Fabio Maldonado,73.0,205.0,Light Heavyweight,Brazil
+231,Rameau Thierry Sokoudjou,70.0,205.0,Light Heavyweight,United States
+232,Ricco Rodriguez,76.0,214.0,Heavyweight,United States
+233,Ed Herman,74.0,205.0,Light Heavyweight,United States
+234,Bryan Barberena,72.0,155.0,Lightweight,United States
+235,Antonio Rogerio Nogueira,74.0,205.0,Light Heavyweight,Brazil
+236,Matt Horwich,71.0,186.0,Middleweight,United States
+237,Chad Griggs,75.0,205.0,Light Heavyweight,United States
+238,Sage Northcutt,72.0,156.0,Lightweight,United States
+239,Masio Fullen,70.0,145.0,Featherweight,Mexico
+240,Alex Caceres,69.0,135.0,Bantamweight,United States
+241,Alexander Yakovlev,73.0,170.0,Welterweight,Russia
+242,Kevin Casey,71.0,185.0,Middleweight,United States
+243,Olivier Aubin-Mercier,69.0,155.0,Lightweight,Canada
+244,Rafael Natal,72.0,185.0,Middleweight,Brazil
+245,Myles Jury,71.0,155.0,Lightweight,United States
+246,Matt Serra,66.0,170.0,Welterweight,United States
+247,Anderson Silva,74.0,185.0,Middleweight,Brazil
+248,Yoel Romero,70.0,185.0,Middleweight,United States
+249,Luke Sanders,67.0,135.0,Bantamweight,United States
+250,Gegard Mousasi,73.0,186.0,Middleweight,Netherlands
+251,Ben Saunders,75.0,170.0,Welterweight,United States
+252,Patrick Cote,71.0,170.0,Welterweight,Canada
+253,Matt Mitrione,75.0,255.0,Heavyweight,United States
+254,Francisco Trinaldo,68.0,155.0,Lightweight,Brazil
+255,Rich Franklin,73.0,185.0,Middleweight,United States
+256,Brian Stann,73.0,185.0,Middleweight,United States
+257,Alex Stiebling,74.0,195.0,Light Heavyweight,United States
+258,Nate Marquardt,72.0,185.0,Middleweight,United States
+259,Yushin Okami,74.0,185.0,Middleweight,Japan
+260,Terry Martin,67.0,185.0,Middleweight,United States
+261,Heath Herring,76.0,250.0,Heavyweight,United States
+262,Yoshihiro Akiyama,70.0,170.0,Welterweight,Japan
+263,Kazuo Takahashi,70.0,203.0,Light Heavyweight,Japan
+264,Wanderlei Silva,70.0,185.0,Middleweight,Brazil
+265,Tra Telligman,74.0,233.0,Heavyweight,United States
+266,Jon Hess,79.0,295.0,Super Heavyweight,United States
+267,Gilbert Yvel,74.0,206.0,Light Heavyweight,Netherlands
+268,Sam Hoger,74.0,205.0,Light Heavyweight,United States
+269,Brad Imes,79.0,260.0,Heavyweight,United States
+270,Teruto Ishihara,67.0,145.0,Featherweight,Japan
+271,Carmelo Marrero,74.0,255.0,Heavyweight,United States
+272,Brandon Thatch,74.0,170.0,Welterweight,United States
+273,Siyar Bahadurzada,71.0,170.0,Welterweight,Afghanistan
+274,Julian Erosa,72.0,145.0,Featherweight,United States
+275,Vinny Magalhaes,75.0,205.0,Light Heavyweight,Brazil
+276,Rafael Cavalcante,72.0,205.0,Light Heavyweight,Brazil
+277,Jason Brilz,71.0,205.0,Light Heavyweight,United States
+278,Anthony Perosh,75.0,205.0,Light Heavyweight,Australia
+279,Eric Schafer,75.0,185.0,Middleweight,United States
+280,Alessio Sakara,73.0,185.0,Middleweight,Italy
+281,Travis Wiuff,75.0,259.0,Heavyweight,United States
+282,Kevin Lee,69.0,155.0,Lightweight,United States
+283,Vernon White,72.0,205.0,Light Heavyweight,United States
+284,John Maguire,69.0,165.0,Welterweight,England
+285,Josh Samman,75.0,186.0,Middleweight,United States
+286,Reza Madadi,71.0,155.0,Lightweight,"Iran, Islamic Republic of"
+287,Mark Scanlon,69.0,170.0,Welterweight,England
+288,Josh Neer,71.0,170.0,Welterweight,United States
+289,Paul Buentello,75.0,205.0,Light Heavyweight,United States
+290,Joe Stevenson,67.0,155.0,Lightweight,United States
+291,Louis Gaudinot,63.0,125.0,Flyweight,United States
+292,Mark Weir,74.0,185.0,Middleweight,England
+293,Remco Pardoel,74.0,250.0,Heavyweight,Holland
+294,Melvin Guillard,69.0,155.0,Lightweight,United States
+295,Din Thomas,69.0,143.0,Featherweight,United States
+296,Dan Severn,74.0,253.0,Heavyweight,United States
+297,Walt Harris,76.0,241.0,Heavyweight,United States
+298,Hector Urbina,72.0,170.0,Welterweight,United States
+299,Nate Quarry,72.0,185.0,Middleweight,United States
+300,Dustin Kimura,66.0,136.0,Bantamweight,United States
+301,Chris Brennan,68.0,155.0,Lightweight,United States
+302,Josh Thomson,70.0,153.0,Lightweight,United States
+303,Michael Johnson,70.0,155.0,Lightweight,United States
+304,Kurt Pellegrino,68.0,155.0,Lightweight,United States
+305,Takanori Gomi,68.0,155.0,Lightweight,Japan
+306,Alvin Robinson,69.0,145.0,Featherweight,United States
+307,Dong Hyun Kim,73.0,170.0,Welterweight,South Korea
+308,Joe Lauzon,69.0,155.0,Lightweight,United States
+309,Sean Sherk,66.0,155.0,Lightweight,United States
+310,Shamar Bailey,68.0,170.0,Welterweight,United States
+311,Marcus Aurelio,70.0,170.0,Welterweight,Brazil
+312,Dustin Hazelett,73.0,155.0,Lightweight,United States
+313,Joe Brammer,68.0,156.0,Lightweight,United States
+314,Mike de la Torre,72.0,135.0,Bantamweight,United States
+315,Felice Herrig,64.0,115.0,Strawweight,United States
+316,Jessica Andrade,62.0,115.0,Strawweight,Brazil
+317,Tony Ferguson,72.0,155.0,Lightweight,United States
+318,Jamie Varner,68.0,155.0,Lightweight,United States
+319,Rich Clementi,69.0,155.0,Lightweight,United States
+320,Piotr Hallmann,69.0,155.0,Lightweight,Poland
+321,Pat Healy,69.0,155.0,Lightweight,United States
+322,Rafaello Oliveira,68.0,155.0,Lightweight,United States
+323,Jason Dent,70.0,158.0,Welterweight,United States
+324,Fabricio Camoes,69.0,155.0,Lightweight,Brazil
+325,Eiji Mitsuoka,67.0,145.0,Featherweight,Japan
+326,Thiago Alves,70.0,170.0,Welterweight,Brazil
+327,Mike Ricci,72.0,155.0,Lightweight,Canada
+328,K.J. Noons,71.0,168.0,Welterweight,United States
+329,Phillipe Nover,69.0,145.0,Featherweight,United States
+330,Jonavin Webb,69.0,170.0,Welterweight,United States
+331,Thomas Almeida,67.0,135.0,Bantamweight,Brazil
+332,Sam Stout,69.0,155.0,Lightweight,Canada
+333,Bubba Bush,72.0,185.0,Middleweight,United States
+334,Edward Faaloloto,69.0,170.0,Welterweight,United States
+335,Matt Grice,68.0,145.0,Featherweight,United States
+336,Brian Cobb,71.0,155.0,Lightweight,United States
+337,Yoshiyuki Yoshida,71.0,155.0,Lightweight,Japan
+338,Leandro Issa,66.0,136.0,Bantamweight,Brazil
+339,Bart Palaszewski,69.0,145.0,Featherweight,United States
+340,Duane Ludwig,70.0,170.0,Welterweight,United States
+341,Caros Fodor,69.0,156.0,Lightweight,United States
+342,Mizuto Hirota,67.0,145.0,Featherweight,Japan
+343,Luis Ramos,68.0,170.0,Welterweight,Brazil
+344,Alexandre Barros,68.0,170.0,Welterweight,Brazil
+345,Milton Vieira,72.0,145.0,Featherweight,Brazil
+346,Wagner Silva Gomes,72.0,185.0,Middleweight,Brazil
+347,Renan Barao,67.0,135.0,Bantamweight,Brazil
+348,Cezar Ferreira,73.0,185.0,Middleweight,Brazil
+349,Joe Soto,66.0,135.0,Bantamweight,United States
+350,Andrew Craig,73.0,170.0,Welterweight,United States
+351,Clint Hester,74.0,185.0,Middleweight,United States
+352,Joe Ellenberger,68.0,155.0,Lightweight,United States
+353,James Moontasri,70.0,155.0,Lightweight,United States
+354,Richie Vaculik,66.0,125.0,Flyweight,Australia
+355,Jake Matthews,69.0,156.0,Lightweight,Australia
+356,Akbarh Arreola,70.0,155.0,Lightweight,Mexico
+357,Danny Martinez,65.0,135.0,Bantamweight,United States
+358,Aljamain Sterling,67.0,135.0,Bantamweight,United States
+359,Louis Smolka,69.0,125.0,Flyweight,United States
+360,Ruan Potts,74.0,251.0,Heavyweight,South Africa
+361,Tim Means,74.0,170.0,Welterweight,United States
+362,Erick Silva,71.0,170.0,Welterweight,Brazil
+363,Pat Miletich,70.0,169.0,Welterweight,United States
+364,Michelle Waterson,63.0,105.0,Atomweight,United States
+365,Michael Chiesa,73.0,155.0,Lightweight,United States
+366,Chris Holdsworth,71.0,135.0,Bantamweight,United States
+367,Robbie Peralta,68.0,145.0,Featherweight,United States
+368,Julianna Pena,67.0,134.0,Bantamweight,United States
+369,Mitch Clarke,70.0,154.0,Lightweight,Canada
+370,Jorge Masvidal,71.0,155.0,Lightweight,United States
+371,Kyung Ho Kang,69.0,135.0,Bantamweight,South Korea
+372,Bobby Green,70.0,155.0,Lightweight,United States
+373,Lucas Martins,72.0,145.0,Featherweight,Brazil
+374,Sirwan Kakai,66.0,135.0,Bantamweight,Sweden
+375,Jamie Yager,74.0,170.0,Welterweight,United States
+376,Elvis Sinosic,75.0,199.0,Light Heavyweight,Australia
+377,Bill Mahood,75.0,205.0,Light Heavyweight,Canada
+378,Kevin Jordan,75.0,245.0,Heavyweight,United States
+379,Rory Singer,74.0,185.0,Middleweight,United States
+380,Steve Bosse,71.0,202.0,Light Heavyweight,Canada
+381,Hector Lombard,69.0,170.0,Welterweight,Cuba
+382,Ryan Jimmo,74.0,205.0,Light Heavyweight,Canada
+383,Igor Pokrajac,72.0,205.0,Light Heavyweight,Croatia
+384,Travis Fulton,72.0,230.0,Heavyweight,United States
+385,C.B. Dollaway,74.0,185.0,Middleweight,United States
+386,Tamdan McCrory,76.0,170.0,Welterweight,United States
+387,Uriah Hall,72.0,186.0,Middleweight,United States
+388,Chris Price,74.0,203.0,Light Heavyweight,United States
+389,Nicholas Musoke,72.0,170.0,Welterweight,Sweden
+390,James Irvin,,205.0,Light Heavyweight,Poland
+391,Drew McFedries,72.0,185.0,Middleweight,United States
+392,Victor Valimaki,72.0,233.0,Heavyweight,Canada
+393,Johnny Case,73.0,155.0,Lightweight,United States
+394,Logan Clark,74.0,185.0,Middleweight,United States
+395,Joe Jordan,66.0,170.0,Welterweight,United States
+396,Shonie Carter,69.0,176.0,Middleweight,United States
+397,Rob Kimmons,70.0,170.0,Welterweight,United States
+398,Chris Tuchscherer,74.0,260.0,Heavyweight,United States
+399,Jared Hamman,75.0,205.0,Light Heavyweight,United States
+400,Josh Hendricks,74.0,259.0,Heavyweight,United States
+401,Wesley Correira,75.0,260.0,Heavyweight,United States
+402,Oli Thompson,73.0,205.0,Light Heavyweight,England
+403,Hayder Hassan,70.0,170.0,Welterweight,United States
+404,Nathan Coy,70.0,170.0,Welterweight,United States
+405,Roger Hollett,70.0,205.0,Light Heavyweight,Canada
+406,Vicente Luque,71.0,170.0,Welterweight,United States
+407,Kamaru Usman,72.0,170.0,Welterweight,United States
+408,Claude Patrick,70.0,170.0,Welterweight,Canada
+409,Mark Coleman,73.0,205.0,Light Heavyweight,United States
+410,Jason MacDonald,74.0,185.0,Middleweight,Canada
+411,Wade Shipp,75.0,240.0,Heavyweight,United States
+412,Tim Lajcik,73.0,225.0,Heavyweight,United States
+413,John Lober,71.0,182.0,Middleweight,United States
+414,John Makdessi,68.0,155.0,Lightweight,Canada
+415,Michel Richard Cunha dos Prazeres,66.0,155.0,Lightweight,Brazil
+416,Jon Tuck,70.0,155.0,Lightweight,Guam
+417,Jesse Ronson,69.0,156.0,Lightweight,Canada
+418,Tim Sylvia,80.0,265.0,Heavyweight,United States
+419,Roberto Traven,75.0,227.0,Heavyweight,Brazil
+420,Dan Christison,80.0,270.0,Super Heavyweight,United States
+421,Ian Freeman,71.0,205.0,Light Heavyweight,England
+422,Leslie Smith,69.0,135.0,Bantamweight,United States
+423,Wes Sims,81.0,258.0,Heavyweight,United States
+424,Ben Nguyen,64.0,125.0,Flyweight,United States
+425,Josh Bryant,72.0,185.0,Middleweight,United States
+426,Tyron Woodley,69.0,170.0,Welterweight,United States
+427,Matt Riddle,73.0,170.0,Welterweight,United States
+428,Lavar Johnson,75.0,253.0,Heavyweight,United States
+429,John Hathaway,74.0,170.0,Welterweight,England
+430,DaMarques Johnson,72.0,170.0,Welterweight,United States
+431,Justin Edwards,70.0,155.0,Lightweight,United States
+432,Simeon Thoresen,73.0,170.0,Welterweight,Norway
+433,Tom Watson,73.0,185.0,Middleweight,England
+434,Caio Magalhaes,73.0,185.0,Middleweight,Brazil
+435,Dan Cramer,73.0,185.0,Middleweight,United States
+436,Gunnar Nelson,71.0,170.0,Welterweight,Iceland
+437,Eddie Gordon,72.0,185.0,Middleweight,United States
+438,Chris Cope,72.0,170.0,Welterweight,United States
+439,Anthony Torres,70.0,171.0,Welterweight,United States
+440,Paul Taylor,72.0,155.0,Lightweight,England
+441,Orlando Wiet,70.0,170.0,Welterweight,France
+442,Claudio Henrique da Silva,71.0,185.0,Middleweight,Brazil
+443,Samy Schiavo,,135.0,Bantamweight,France
+444,Dan Hardy,72.0,170.0,Welterweight,England
+445,Rich Crunkilton,67.0,155.0,Lightweight,United States
+446,Roan Carneiro,71.0,170.0,Welterweight,Brazil
+447,Kendall Grove,78.0,185.0,Middleweight,United States
+448,Gilbert Smith,69.0,170.0,Welterweight,United States
+449,Abner Lloveras,71.0,155.0,Lightweight,Spain
+450,Lucio Linhares,74.0,185.0,Middleweight,Brazil
+451,Tomasz Drwal,73.0,185.0,Middleweight,Poland
+452,Nicolas Dalby,71.0,170.0,Welterweight,Denmark
+453,Leon Edwards,70.0,170.0,Welterweight,England
+454,Junie Allen Browning,70.0,180.0,Middleweight,United States
+455,Yoislandy Izquierdo,70.0,154.0,Lightweight,Cuba
+456,Carlo Prater,72.0,155.0,Lightweight,Brazil
+457,Danny Mitchell,74.0,170.0,Welterweight,England
+458,Jimi Manuwa,72.0,205.0,Light Heavyweight,England
+459,Jorge Gurgel,69.0,154.0,Lightweight,United States
+460,Michael Kuiper,72.0,192.0,Light Heavyweight,Netherlands
+461,Cathal Pendred,73.0,170.0,Welterweight,Ireland
+462,Chris Gruetzemacher,67.0,145.0,Featherweight,United States
+463,Stefan Struve,84.0,265.0,Heavyweight,Netherlands
+464,Pascal Krauss,73.0,170.0,Welterweight,Germany
+465,Jens Pulver,67.0,135.0,Bantamweight,United States
+466,Nick Ring,72.0,185.0,Middleweight,Canada
+467,Papy Abedi,71.0,170.0,Welterweight,Sweden
+468,Mike Pyle,73.0,170.0,Welterweight,United States
+469,Gerald Harris,71.0,170.0,Welterweight,United States
+470,Jesse Forbes,74.0,184.0,Middleweight,United States
+471,Brian Ebersole,72.0,170.0,Welterweight,United States
+472,Amanda Nunes,65.0,136.0,Bantamweight,Brazil
+473,Sheila Gaff,65.0,115.0,Strawweight,Germany
+474,Shayna Baszler,67.0,135.0,Bantamweight,United States
+475,Anthony Smith,76.0,185.0,Middleweight,United States
+476,Court McGee,71.0,170.0,Welterweight,United States
+477,Keith Wisniewski,71.0,170.0,Welterweight,United States
+478,Joshua Burkman,70.0,155.0,Lightweight,United States
+479,Forrest Petz,69.0,185.0,Middleweight,United States
+480,Nick Thompson,73.0,170.0,Welterweight,United States
+481,Derrick Noble,69.0,169.0,Welterweight,United States
+482,Drew Fickett,70.0,151.0,Lightweight,United States
+483,Anthony Macias,70.0,170.0,Welterweight,United States
+484,Kevin Burns,72.0,170.0,Welterweight,United States
+485,James McSweeney,76.0,206.0,Light Heavyweight,England
+486,Elvis Mutapcic,72.0,185.0,Middleweight,United States
+487,Gilbert Aldana,73.0,250.0,Heavyweight,USA
+488,Kerry Schall,74.0,265.0,Heavyweight,United States
+489,Gary Goodridge,75.0,240.0,Heavyweight,Canada
+490,Bobby Hoffman,74.0,245.0,Heavyweight,United States
+491,Gan McGee,82.0,260.0,Heavyweight,United States
+492,Jay Silva,74.0,185.0,Middleweight,United States
+493,John Howard,67.0,171.0,Welterweight,United States
+494,Semmy Schilt,83.0,256.0,Heavyweight,Holland
+495,Ricardo Almeida,71.0,170.0,Welterweight,United States
+496,Guy Mezger,73.0,200.0,Light Heavyweight,United States
+497,Mike Easton,66.0,135.0,Bantamweight,United States
+498,Hugo Viana,66.0,135.0,Bantamweight,Brazil
+499,Walel Watson,71.0,134.0,Bantamweight,United States
+500,Joshua Burkman,70.0,155.0,Lightweight,United States
+501,Diego Sanchez,70.0,155.0,Lightweight,United States
+502,Yves Edwards,70.0,155.0,Lightweight,United States
+503,Jeremy Jackson,70.0,170.0,Welterweight,United States
+504,Edwin Dewees,73.0,205.0,Light Heavyweight,United States
+505,John Lineker,62.0,126.0,Flyweight,Brazil
+506,Makwan Amirkhani,71.0,145.0,Featherweight,Finland
+507,Johnny Bedford,69.0,135.0,Bantamweight,United States
+508,Tor Troeng,74.0,184.0,Middleweight,Sweden
+509,Eugene Jackson,68.0,185.0,Middleweight,United States
+510,Jorge Patino,68.0,155.0,Lightweight,United States
+511,Thomas Almeida,67.0,135.0,Bantamweight,Brazil
+512,James Irvin,74.0,185.0,Middleweight,United States
+513,Rousimar Palhares,68.0,170.0,Welterweight,Brazil
+514,Renato Verissimo,73.0,170.0,Welterweight,United States
+515,Dave Menne,70.0,185.0,Middleweight,United States
+516,Martin Kampmann,72.0,170.0,Welterweight,Denmark
+517,Hayato Sakurai,67.0,168.0,Welterweight,Japan
+518,Chris Wilson,73.0,155.0,Lightweight,Brazil
+519,LaVerne Clark,71.0,185.0,Middleweight,United States
+520,Gabriel Benitez,68.0,145.0,Featherweight,Mexico
+521,Dustin Neace,69.0,146.0,Featherweight,United States
+522,John Gunderson,69.0,145.0,Featherweight,United States
+523,Carlos Newton,69.0,174.0,Middleweight,Canada
+524,Dennis Hallman,69.0,181.0,Middleweight,United States
+525,Valeri Ignatov,69.0,191.0,Light Heavyweight,Bulgaria
+526,Josh Copeland,73.0,245.0,Heavyweight,United States
+527,Brandon Melendez,70.0,170.0,Welterweight,United States
+528,Luigi Fioravanti,69.0,183.0,Middleweight,United States
+529,Chad Reiner,72.0,170.0,Welterweight,United States
+530,Marco Ruas,73.0,210.0,Heavyweight,Brazil
+531,Emmanuel Yarborough,80.0,600.0,Super Heavyweight,United States
+532,Josh Sampo,64.0,125.0,Flyweight,United States
+533,Razak Al-Hassan,75.0,205.0,Light Heavyweight,United States
+534,Don Frye,73.0,210.0,Heavyweight,United States
+535,Brian Johnston,76.0,222.0,Heavyweight,United States
+536,Tsuyoshi Kosaka,71.0,225.0,Heavyweight,Japan
+537,Roger Huerta,69.0,155.0,Lightweight,United States
+538,Ikuhisa Minowa,69.0,185.0,Middleweight,Japan
+539,Gabe Ruediger,70.0,155.0,Lightweight,United States
+540,Diego Saraiva,66.0,149.0,Lightweight,United States
+541,Darren Uyenoyama,66.0,125.0,Flyweight,United States
+542,Ivan Menjivar,66.0,135.0,Bantamweight,El Salvador
+543,Derrick Lewis,75.0,264.0,Heavyweight,United States
+544,Moti Horenstein,73.0,205.0,Light Heavyweight,United States
+545,Dustin Pague,69.0,152.0,Lightweight,United States
+546,Aisling Daly,63.0,116.0,Strawweight,Ireland
+547,Tina Lahdemaki,62.0,115.0,Strawweight,Finland
+548,Jay Hieron,71.0,170.0,Welterweight,United States
+549,Sergio Moraes,72.0,170.0,Welterweight,Brazil
+550,Rick Story,70.0,170.0,Welterweight,United States
+551,Corey Hill,76.0,168.0,Welterweight,United States
+552,Mike Wilkinson,68.0,145.0,Featherweight,England
+553,Jordan Mein,71.0,170.0,Welterweight,Canada
+554,Joao Zeferino,71.0,155.0,Lightweight,Brazil
+555,Robert Whittaker,71.0,185.0,Middleweight,Australia
+556,Antonio Carvalho,68.0,145.0,Featherweight,Canada
+557,Ray Borg,64.0,125.0,Flyweight,United States
+558,Mike Swick,73.0,170.0,Welterweight,United States
+559,Colin Fletcher,74.0,170.0,Welterweight,England
+560,Mark Munoz,72.0,185.0,Middleweight,United States
+561,Krzysztof Soszynski,73.0,205.0,Light Heavyweight,Canada
+562,Yuki Kondo,71.0,170.0,Welterweight,Japan
+563,Erik Perez,68.0,135.0,Bantamweight,Mexico
+564,Edwin Figueroa,67.0,135.0,Bantamweight,United States
+565,Santiago Ponzinibbio,72.0,170.0,Welterweight,Argentina
+566,Jared Papazian,68.0,135.0,Bantamweight,United States
+567,Jared Rosholt,74.0,240.0,Heavyweight,United States
+568,Jessica Eye,66.0,135.0,Bantamweight,United States
+569,Chico Camus,66.0,125.0,Flyweight,United States
+570,Jonathan Wiezorek,75.0,250.0,Heavyweight,United States
+571,Lance Gibson,69.0,185.0,Middleweight,Canada
+572,Oleg Taktarov,72.0,210.0,Heavyweight,Russia
+573,Randa Markos,65.0,115.0,Strawweight,Canada
+574,Angela Magana,64.0,115.0,Strawweight,United States
+575,Gilbert Melendez,69.0,153.0,Lightweight,United States
+576,Lyman Good,72.0,170.0,Welterweight,United States
+577,Ruslan Magomedov,75.0,249.0,Heavyweight,Russia
+578,Jorge Lopez,70.0,170.0,Welterweight,United States
+579,Pete Sell,71.0,179.0,Middleweight,United States
+580,Chuck O'Neil,74.0,185.0,Middleweight,United States
+581,Neil Grove,78.0,264.0,Heavyweight,England
+582,Branden Lee Hinkle,74.0,230.0,Heavyweight,United States
+583,Vinicius Kappke de Queiroz,79.0,237.0,Heavyweight,Brazil
+584,Pat Barry,71.0,237.0,Heavyweight,United States
+585,Charlie Brenneman,70.0,155.0,Lightweight,United States
+586,Jon delos Reyes,65.0,125.0,Flyweight,United States
+587,Lewis Gonzalez,70.0,174.0,Middleweight,United States
+588,Antonio McKee,68.0,155.0,Lightweight,United States
+589,Roli Delgado,75.0,145.0,Featherweight,United States
+590,Trevor Smith,75.0,185.0,Middleweight,United States
+591,Francis Carmont,72.0,170.0,Welterweight,United States
+592,Nick Catone,72.0,173.0,Middleweight,United States
+593,Alan Belcher,74.0,185.0,Middleweight,United States
+594,Luke Barnatt,78.0,185.0,Middleweight,England
+595,Hyun Gyu Lim,74.0,170.0,Welterweight,South Korea
+596,Gerald Strebendt,69.0,155.0,Lightweight,United States
+597,Kajan Johnson,71.0,155.0,Lightweight,Canada
+598,Tony Fryklund,72.0,155.0,Lightweight,United States
+599,Alex Karalexis,68.0,170.0,Welterweight,United States
+600,Brad Blackburn,70.0,169.0,Welterweight,United States
+601,Paul Sass,73.0,155.0,Lightweight,England
+602,James Krause,74.0,155.0,Lightweight,United States
+603,Ramiro Hernandez,69.0,145.0,Featherweight,United States
+604,David Baron,71.0,145.0,Featherweight,United States
+605,Eric Wisely,68.0,160.0,Welterweight,United States
+606,Phil Johns,62.0,160.0,Welterweight,United States
+607,Tae Hyun Bang,69.0,156.0,Lightweight,South Korea
+608,Johnny Eduardo,67.0,135.0,Bantamweight,Brazil
+609,Eddie Yagin,66.0,145.0,Featherweight,United States
+610,Cameron Dollar,71.0,145.0,Featherweight,United States
+611,Chris Clements,70.0,170.0,Welterweight,Canada
+612,Luke Caudillo,67.0,155.0,Lightweight,United States
+613,Dominic Waters,73.0,170.0,Welterweight,United States
+614,Sean Pierson,73.0,170.0,Welterweight,Canada
+615,Ian Loveland,68.0,135.0,Bantamweight,United States
+616,Ryan Roberts,66.0,139.0,Featherweight,United States
+617,William Macario,71.0,170.0,Welterweight,Brazil
+618,Mark Holst,72.0,169.0,Welterweight,Canada
+619,Francisco Rivera,68.0,135.0,Bantamweight,United States
+620,Andy Ogle,69.0,144.0,Featherweight,England
+621,Corey Anderson,75.0,205.0,Light Heavyweight,United States
+622,Justin Jones,71.0,209.0,Heavyweight,United States
+623,Roman Salazar,67.0,135.0,Bantamweight,United States
+624,Benji Radach,70.0,185.0,Middleweight,United States
+625,Rodolfo Rubio Perez,65.0,145.0,Featherweight,Mexico
+626,Rashid Magomedov,69.0,155.0,Lightweight,Russia
+627,Anistavio Medeiros de Figueiredo,67.0,145.0,Featherweight,Brazil
+628,Jesse Bongfeldt,72.0,185.0,Middleweight,Canada
+629,Ryan McGillivray,71.0,170.0,Welterweight,Canada
+630,Roger Bowling,68.0,155.0,Lightweight,United States
+631,Rodney Wallace,69.0,205.0,Light Heavyweight,United States
+632,David Heath,71.0,203.0,Light Heavyweight,United States
+633,Chris Saunders,68.0,155.0,Lightweight,United States
+634,Chuck O'Neil,74.0,185.0,Middleweight,United States
+635,Jim Alers,69.0,145.0,Featherweight,United States
+636,Yosdenis Cedeno,68.0,155.0,Lightweight,Cuba
+637,Sean McCorkle,79.0,312.0,Super Heavyweight,United States
+638,Jerrod Sanders,68.0,135.0,Bantamweight,United States
+639,Shawn Jordan,72.0,251.0,Heavyweight,United States
+640,Jessamyn Duke,71.0,136.0,Bantamweight,United States
+641,Alex White,72.0,146.0,Featherweight,United States
+642,Damon Jackson,71.0,145.0,Featherweight,United States
+643,Alptekin Ozkilic,65.0,125.0,Flyweight,United States
+644,Justin Salas,68.0,155.0,Lightweight,United States
+645,Tony DeSouza,72.0,169.0,Welterweight,Peru
+646,Jonathan Goulet,72.0,169.0,Welterweight,Canada
+647,Tiago dos Santos e Silva,70.0,155.0,Lightweight,Brazil
+648,Heather Clark,66.0,115.0,Strawweight,United States
+649,Enrique Briones,67.0,135.0,Bantamweight,Mexico
+650,Tecia Torres,61.0,115.0,Strawweight,United States
+651,Charles McCarthy,70.0,185.0,Middleweight,United States
+652,Scott Holtzman,69.0,155.0,Lightweight,United States
+653,Jeff Curran,66.0,135.0,Bantamweight,United States
+654,Sarah Moras,67.0,135.0,Bantamweight,Canada
+655,Derek Downey,74.0,185.0,Middleweight,United States
+656,Travis Lutter,74.0,185.0,Middleweight,United States
+657,Mike Rio,70.0,155.0,Lightweight,United States
+658,Brock Jardine,71.0,170.0,Welterweight,United States
+659,Jason Day,72.0,185.0,Middleweight,Canada
+660,Michael Guymon,72.0,155.0,Lightweight,United States
+661,Rustam Khabilov,70.0,155.0,Lightweight,Russia
+662,Goran Reljic,75.0,205.0,Light Heavyweight,Croatia
+663,Tommy Hayden,69.0,145.0,Featherweight,United States
+664,Sam Morgan,70.0,165.0,Welterweight,USA
+665,Wendell de Oliveira Marques,71.0,170.0,Welterweight,Brazil
+666,Elizeu Zaleski dos Santos,71.0,170.0,Welterweight,Brazil
+667,Juan Manuel Puig,69.0,145.0,Featherweight,Mexico
+668,Keita Nakamura,71.0,170.0,Welterweight,Japan
+669,Seth Baczynski,75.0,170.0,Welterweight,United States
+670,Alex Garcia,69.0,171.0,Welterweight,Canada
+671,Ron Stallings,72.0,185.0,Middleweight,United States
+672,Thiago Santos,72.0,183.0,Middleweight,Brazil
+673,Sean Spencer,70.0,170.0,Welterweight,United States
+674,Dong Hyun  Kim,71.0,170.0,Welterweight,South Korea
+675,Reuben Duran,67.0,136.0,Bantamweight,United States
+676,David Kaplan,66.0,159.0,Welterweight,United States
+677,Shane Nelson,69.0,146.0,Featherweight,United States
+678,James Wilks,73.0,170.0,Welterweight,England
+679,Jason Black,70.0,169.0,Welterweight,United States
+680,Ednaldo Oliveira,77.0,205.0,Light Heavyweight,Brazil
+681,Chris Beal,67.0,126.0,Flyweight,United States
+682,Mackens Semerzier,69.0,145.0,Featherweight,United States
+683,Che Mills,69.0,155.0,Lightweight,Canada
+684,Zubaira Tukhugov,68.0,146.0,Featherweight,Russia
+685,Chris Tickle,69.0,160.0,Welterweight,United States
+686,Ryan Benoit,65.0,125.0,Flyweight,United States
+687,Pat Audinwood,72.0,155.0,Lightweight,United States
+688,Daniel Stittgen,73.0,179.0,Middleweight,United States
+689,Anthony Birchak,68.0,135.0,Bantamweight,United States
+690,Tim Gorman,64.0,135.0,Bantamweight,United States
+691,Yves Jabouin,66.0,135.0,Bantamweight,Canada
+692,Garreth McLellan,73.0,185.0,Middleweight,South Africa
+693,Kiichi Kunimoto,70.0,169.0,Welterweight,Japan
+694,Francisco Trevino,70.0,155.0,Lightweight,United States
+695,Omari Akhmedov,72.0,170.0,Welterweight,Russia
+696,Ernest Chavez,68.0,146.0,Featherweight,United States
+697,Marcus LeVesseur,70.0,155.0,Lightweight,United States
+698,Alex Soto,67.0,135.0,Bantamweight,United States
+699,Zach Makovsky,64.0,125.0,Flyweight,United States
+700,Shunichi Shimizu,66.0,125.0,Flyweight,Japan
+701,Doo Ho Choi,69.0,143.0,Featherweight,South Korea
+702,Cole Escovedo,67.0,135.0,Bantamweight,United States
+703,Genki Sudo,69.0,155.0,Lightweight,Japan
+704,Michael McDonald,68.0,136.0,Bantamweight,United States
+705,Yuta Sasaki,70.0,135.0,Bantamweight,Japan
+706,Jussier da Silva,65.0,125.0,Flyweight,Brazil
+707,Willamy Freire,68.0,155.0,Lightweight,Brazil
+708,Delson Heleno,71.0,170.0,Welterweight,Brazil
+709,Nick Denis,66.0,135.0,Bantamweight,Canada
+710,Nazareno Malegarie,68.0,155.0,Lightweight,Argentina
+711,T.J. O'Brien,74.0,155.0,Lightweight,United States
+712,Shane Campbell,72.0,155.0,Lightweight,Canada
+713,Sam Alvey,74.0,185.0,Middleweight,United States
+714,Maiquel Falcao,71.0,185.0,Middleweight,Brazil
+715,Josh Sampo,64.0,125.0,Flyweight,United States
+716,Steve Bruno,70.0,174.0,Middleweight,United States
+717,Nick Osipczak,73.0,170.0,Welterweight,England
+718,Brendan Schaub,76.0,238.0,Heavyweight,United States
+719,Darrell Montague,66.0,125.0,Flyweight,United States
+720,Dan Spohn,76.0,204.0,Light Heavyweight,United States
+721,Tom Lawlor,72.0,205.0,Light Heavyweight,United States
+722,Cody Donovan,75.0,205.0,Light Heavyweight,United States
+723,Fernando Bruno,66.0,145.0,Featherweight,Brazil
+724,Renato Carneiro,71.0,145.0,Featherweight,Brazil
+725,Ricardo Funch,70.0,170.0,Welterweight,United States
+726,Jorge Antonio Cezario de Oliveira,70.0,155.0,Lightweight,Brazil
+727,Sergio Pettis,66.0,125.0,Flyweight,United States
+728,Jacob Volkmann,69.0,170.0,Welterweight,United States
+729,Estevan Payan,70.0,148.0,Lightweight,United States
+730,Godofredo Castro,67.0,145.0,Featherweight,Brazil
+731,Felipe Arantes,68.0,135.0,Bantamweight,Brazil
+732,Ryan Thomas,72.0,170.0,Welterweight,United States
+733,Leonardo Mafra Texeira,70.0,155.0,Lightweight,Brazil
+734,Edilberto de Oliveira,72.0,170.0,Welterweight,Brazil
+735,Ricardo Abreu,71.0,185.0,Middleweight,Brazil
+736,Colby Covington,71.0,169.0,Welterweight,United States
+737,Rony Mariano Bezerra,67.0,145.0,Featherweight,Brazil
+738,Donny Walker,69.0,145.0,Featherweight,United States
+739,Maiquel Falcao,71.0,185.0,Middleweight,Brazil
+740,Andy Enz,75.0,185.0,Middleweight,United States
+741,Marcos Rogerio de Lima,73.0,205.0,Light Heavyweight,Brazil
+742,Vitor Miranda,73.0,185.0,Middleweight,Brazil
+743,Marcelo Guimaraes,72.0,185.0,Middleweight,Brazil
+744,Cody Pfister,70.0,155.0,Lightweight,United States
+745,Anton Zafir,,170.0,Welterweight,Australia
+746,Roldan Sangcha-an,64.0,125.0,Flyweight,Philippines
+747,Dashon Johnson,69.0,155.0,Lightweight,United States
+748,Pawel Pawlak,72.0,170.0,Welterweight,Poland
+749,Steve Kennedy,72.0,170.0,Welterweight,Australia
+750,Cody Gibson,70.0,135.0,Bantamweight,United States
+751,Marcio Alexandre Jr.,73.0,170.0,Welterweight,Brazil
+752,Bernardo Magalhaes,69.0,155.0,Lightweight,Brazil
+753,Alan Jouban,72.0,171.0,Welterweight,United States
+754,Gasan Umalatov,71.0,181.0,Middleweight,Russia
+755,Mike Rhodes,73.0,170.0,Welterweight,United States
+756,Mikey Burnett,66.0,170.0,Welterweight,USA
+757,Sherman Pendergarst,73.0,205.0,Light Heavyweight,United States
+758,Edimilson Souza,72.0,145.0,Featherweight,Brazil
+759,Davey Grant,68.0,135.0,Bantamweight,England
+760,Gilbert Burns,70.0,155.0,Lightweight,Brazil
+761,Pedro Nobre,65.0,125.0,Flyweight,Brazil
+762,Guangyou Ning,65.0,135.0,Bantamweight,China
+763,Taylor Lapilus,66.0,135.0,Bantamweight,France
+764,Patrick Williams,68.0,135.0,Bantamweight,United States
+765,Dan Lauzon,70.0,170.0,Welterweight,United States
+766,Dominique Steele,70.0,170.0,Welterweight,United States
+767,Eddie Gordon,72.0,185.0,Middleweight,United States
+768,Alex Chambers,63.0,115.0,Strawweight,Australia
+769,Nick Hein,68.0,155.0,Lightweight,Germany
+770,Bryan Caraway,69.0,135.0,Bantamweight,United States
+771,Angela Hill,63.0,115.0,Strawweight,United States
+772,Roger Narvaez,75.0,185.0,Middleweight,United States
+773,Rich Attonito,70.0,170.0,Welterweight,United States
+774,Steve Steinbeiss,75.0,186.0,Middleweight,United States
+775,Fabiano Scherner,76.0,257.0,Heavyweight,Brazil
+776,Karlos Vemola,72.0,205.0,Light Heavyweight,Czech Republic
+777,Vik Grujic,71.0,170.0,Welterweight,Australia
+778,Steve Cantwell,74.0,185.0,Middleweight,United States
+779,Denis Stojnic,72.0,247.0,Heavyweight,Bosnia and Herzegovina
+780,Josh Haynes,69.0,205.0,Light Heavyweight,United States
+781,Matt Lucas,73.0,205.0,Light Heavyweight,United States
+782,Francimar Barroso,73.0,205.0,Light Heavyweight,Brazil
+783,Manuel Rodriguez,69.0,185.0,Middleweight,El Salvador
+784,Todd Brown,71.0,185.0,Middleweight,United States
+785,John Marsh,72.0,222.0,Heavyweight,United States
+786,Cyrille Diabate,78.0,205.0,Light Heavyweight,France
+787,Augusto Montano,73.0,170.0,Welterweight,Mexico
+788,Aaron Simpson,72.0,170.0,Welterweight,United States
+789,Bruno Santos,68.0,185.0,Middleweight,Brazil
+790,Ryan Madigan,72.0,170.0,Welterweight,United States
+791,Xavier Foupa-Pokam,73.0,185.0,Middleweight,France
+792,Josh Schockman,76.0,205.0,Light Heavyweight,United States
+793,Damian Grabowski,73.0,241.0,Heavyweight,Poland
+794,Mike Wessel,72.0,263.0,Heavyweight,United States
+795,Alex Andrade,71.0,200.0,Light Heavyweight,United States
+796,Nah-Shon Burrell,73.0,179.0,Middleweight,United States
+797,Christos Giagos,70.0,155.0,Lightweight,United States
+798,Oluwale Bamgbose,71.0,185.0,Middleweight,United States
+799,Mario Miranda,75.0,185.0,Middleweight,Brazil
+800,Jesse Lennox,69.0,170.0,Welterweight,United States
+801,Albert Tumenov,71.0,169.0,Welterweight,Russia
+802,Mickael Lebout,71.0,155.0,Lightweight,France
+803,Luiz Cane,74.0,205.0,Light Heavyweight,Brazil
+804,Roger Zapata,71.0,170.0,Welterweight,United States
+805,Patrick Walsh,71.0,205.0,Light Heavyweight,United States
+806,Chad Laprise,70.0,156.0,Lightweight,Canada
+807,Elias Theodorou,73.0,185.0,Middleweight,Canada
+808,Leo Kuntz,70.0,155.0,Lightweight,United States
+809,David Michaud,69.0,155.0,Lightweight,United States
+810,Eddie Sanchez,75.0,214.0,Heavyweight,United States
+811,Adam Cella,74.0,170.0,Welterweight,United States
+812,Zach Light,68.0,170.0,Welterweight,United States
+813,Chris Heatherly,68.0,160.0,Welterweight,United States
+814,Dongi Yang,71.0,185.0,Middleweight,South Korea
+815,Matt Van Buren,77.0,205.0,Light Heavyweight,United States
+816,Razak Al-Hassan,75.0,205.0,Light Heavyweight,United States
+817,Justin Wren,75.0,265.0,Heavyweight,United States
+818,Magnus Cedenblad,75.0,185.0,Middleweight,Sweden
+819,Jason Fairn,73.0,230.0,Heavyweight,Canada
+820,Alexandre Ferreira,67.0,204.0,Light Heavyweight,Brazil
+821,Justin McCully,74.0,235.0,Heavyweight,United States
+822,Ulysses Gomez,65.0,125.0,Flyweight,United States
+823,Rob Broughton,74.0,258.0,Heavyweight,England
+824,Danny Roberts,72.0,170.0,Welterweight,England
+825,Nick Penner,72.0,205.0,Light Heavyweight,Canada
+826,Daniel Roberts,70.0,170.0,Welterweight,United States
+827,Renan Barao,67.0,135.0,Bantamweight,Brazil
+828,Reese Andy,72.0,205.0,Light Heavyweight,United States
+829,James Hammortree,75.0,204.0,Light Heavyweight,United States
+830,Clifford Starks,70.0,185.0,Middleweight,United States
+831,Shinsho Anzai,69.0,170.0,Welterweight,Japan
+832,Enson Inoue,70.0,204.0,Light Heavyweight,Japan
+833,Alan Patrick Silva Alves,71.0,155.0,Lightweight,Brazil
+834,Valmir Lazaro,72.0,154.0,Lightweight,Brazil
+835,Tiequan Zhang,69.0,145.0,Featherweight,China
+836,Chris Kelades,67.0,125.0,Flyweight,Canada
+837,Ildemar Alcantara,74.0,185.0,Middleweight,Brazil
+838,Yoji Anjo,71.0,198.0,Light Heavyweight,Japan
+839,Germaine de Randamie,69.0,135.0,Bantamweight,Netherlands
+840,Valentina Shevchenko,65.0,135.0,Bantamweight,Peru
+841,Daniel Hooker,72.0,145.0,Featherweight,New Zealand
+842,Sean Strickland,73.0,171.0,Welterweight,United States
+843,Guilherme Vasconcelos,72.0,170.0,Welterweight,Brazil
+844,Steve Montgomery,76.0,170.0,Welterweight,United States
+845,Marcin Wrzosek,69.0,145.0,Featherweight,Poland
+846,Andreas Stahl,71.0,169.0,Welterweight,Sweden
+847,Paul Redmond,70.0,145.0,Featherweight,Ireland
+848,Kris McCray,72.0,170.0,Welterweight,United States
+849,Tom Egan,71.0,181.0,Middleweight,Ireland
+850,Alberto Mina,72.0,170.0,Welterweight,Brazil
+851,Roxanne Modafferi,66.0,125.0,Flyweight,United States
+852,Antonio Carlos Jr.,73.0,185.0,Middleweight,Brazil
+853,Lee Murray,72.0,185.0,Middleweight,England
+854,Jake Hecht,72.0,170.0,Welterweight,United States
+855,Luiz Cane,74.0,205.0,Light Heavyweight,Brazil
+856,Aaron Phillips,69.0,135.0,Bantamweight,United States
+857,Nah-Shon Burrell,73.0,179.0,Middleweight,United States
+858,Bradley Scott,73.0,185.0,Middleweight,England
+859,Marcin Bandel,70.0,155.0,Lightweight,Poland
+860,Nandor Guelmino,75.0,230.0,Heavyweight,Austria
+861,Robert Whiteford,69.0,145.0,Featherweight,Scotland
+862,Mehdi Baghdad,73.0,155.0,Lightweight,France
+863,Xavier Foupa-Pokam,73.0,185.0,Middleweight,France
+864,Guido Cannetti,66.0,135.0,Bantamweight,Argentina
+865,Daniel Downes,72.0,155.0,Lightweight,United States
+866,Aaron Wilkinson,70.0,170.0,Welterweight,England
+867,Enrique Marin,,170.0,Welterweight,Spain
+868,Lukasz Sajewski,68.0,155.0,Lightweight,Poland
+869,Sai Wang,72.0,170.0,Welterweight,China
+870,Allen Berube,68.0,155.0,Lightweight,United States
+871,John Polakowski,69.0,155.0,Lightweight,United States
+872,Alejandro Perez,66.0,136.0,Bantamweight,Mexico
+873,Steve Vigneault,70.0,169.0,Welterweight,Canada
+874,Roland Delorme,69.0,135.0,Bantamweight,Canada
+875,Jared Rollins,69.0,185.0,Middleweight,United States
+876,Scott Junk,73.0,265.0,Heavyweight,United States
+877,Alfonso Alcarez,63.0,135.0,Bantamweight,United States
+878,David Velasquez,65.0,145.0,Featherweight,United States
+879,Alexis Dufresne,69.0,143.0,Featherweight,United States
+880,Leonardo Guimaraes,72.0,185.0,Middleweight,Brazil
+881,Geane Herrera,65.0,125.0,Flyweight,United States
+882,Leandro Silva,70.0,170.0,Welterweight,Brazil
+883,Peggy Morgan,73.0,135.0,Bantamweight,United States
+884,Mark Robinson,72.0,300.0,Super Heavyweight,USA
+885,Alexandre Dantas,74.0,238.0,Heavyweight,Brazil
+886,Josh Ferguson,65.0,125.0,Flyweight,United States
+887,John Teixeira da Conceicao,67.0,145.0,Featherweight,Brazil
+888,Pedro Munhoz,66.0,135.0,Bantamweight,Brazil
+889,Jose Maria Tome,65.0,125.0,Flyweight,Brazil
+890,Azamat Gashimov,69.0,135.0,Bantamweight,Russia
+891,Wagner Campos,66.0,145.0,Featherweight,Brazil
+892,Marcos Vinicius Borges Pancini,69.0,145.0,Featherweight,Brazil
+893,Douglas Silva de Andrade,67.0,135.0,Bantamweight,Brazil
+894,Brian Houston,73.0,185.0,Middleweight,United States
+895,Daniel Jolly,73.0,205.0,Light Heavyweight,United States
+896,Carlo Prater,72.0,155.0,Lightweight,Brazil
+897,John Albert,69.0,137.0,,United States
+898,Cortney Casey,62.0,115.0,Strawweight,United States
+899,Bentley Syler,64.0,125.0,Flyweight,Bolivia
+900,Carlos Augusto Inocente Filho,75.0,205.0,Light Heavyweight,Brazil
+901,Bob Cook,69.0,170.0,Welterweight,United States
+902,Jingliang Li,72.0,169.0,Welterweight,China
+903,Jack May,80.0,253.0,Heavyweight,United States
+904,Jeff Joslin,72.0,170.0,Welterweight,Canada
+905,Maryna Moroz,67.0,115.0,Strawweight,Ukraine
+906,Antonio dos Santos Jr.,70.0,185.0,Middleweight,Brazil
+907,Richard Walsh,72.0,170.0,Welterweight,Australia
+908,Ben Alloway,70.0,170.0,Welterweight,Australia
+909,Jeff Hougland,69.0,135.0,Bantamweight,United States
+910,Sako Chivitchyan,,156.0,Lightweight,United States
+911,Alex Morono,71.0,170.0,Welterweight,United States
+912,Tyler Toner,69.0,145.0,Featherweight,United States
+913,Lipeng Zhang,71.0,155.0,Lightweight,China
+914,John Cofer,69.0,145.0,Featherweight,United States
+915,Nick Serra,,,,USA
+916,Renan Barao,67.0,135.0,Bantamweight,Brazil
+917,Frank Lester,71.0,170.0,Welterweight,United States
+918,Marlon Vera,68.0,135.0,Bantamweight,Ecuador
+919,Marco Beltran,68.0,170.0,Welterweight,Mexico
+920,Yair Rodriguez,71.0,145.0,Featherweight,Mexico
+921,Cesar Arzamendia,71.0,145.0,Featherweight,Paraguay
+922,Mike Nickels,76.0,204.0,Light Heavyweight,United States
+923,Josh Clopton,67.0,145.0,Featherweight,United States
+924,Cain Carrizosa,68.0,155.0,Lightweight,United States
+925,Jose Alberto Quinonez,68.0,135.0,Bantamweight,Mexico
+926,Jonathan Wilson,74.0,205.0,Light Heavyweight,United States
+927,Jimmy Quinlan,,185.0,Middleweight,United States
+928,Ben Wall,70.0,154.0,Lightweight,Australia
+929,Pat Barry,71.0,237.0,Heavyweight,United States
+930,Tony DeSouza,72.0,169.0,Welterweight,Peru
+931,Roan Carneiro,71.0,170.0,Welterweight,Brazil
+932,Nina Ansaroff,65.0,116.0,Strawweight,United States
+933,Richardson Moreira,74.0,205.0,Light Heavyweight,Brazil
+934,Rafael dos Anjos,69.0,155.0,Lightweight,Brazil
+935,Joanna Jedrzejczyk,66.0,115.0,Strawweight,Poland
+936,Luke Rockhold,75.0,185.0,Middleweight,United States
+937,Royce Gracie,72.0,176.0,Middleweight,Brazil
+938,Gleison Tibau,70.0,155.0,Lightweight,Brazil
+939,George Sotiropoulos,70.0,155.0,Lightweight,Australia
+940,Tyson Griffin,66.0,155.0,Lightweight,United States
+941,Mark Bocek,69.0,155.0,Lightweight,Canada
+942,Evan Dunham,70.0,155.0,Lightweight,United States
+943,Nate Diaz,72.0,155.0,Lightweight,United States
+944,Terry Etim,73.0,155.0,Lightweight,England
+945,Kyle Bradley,70.0,170.0,Welterweight,United States
+946,Jessica Penne,65.0,115.0,Strawweight,United States
+947,Edson Barboza,71.0,155.0,Lightweight,Brazil
+948,Costas Philippou,71.0,185.0,Middleweight,United States
+949,Matt Hughes,69.0,170.0,Welterweight,United States
+950,Tim Kennedy,71.0,185.0,Middleweight,United States
+951,Kimo Leopoldo,75.0,235.0,Heavyweight,United States
+952,Greg Stott,67.0,240.0,Heavyweight,USA
+953,Ron van Clief,70.0,190.0,Light Heavyweight,United States
+954,Keith Hackney,71.0,200.0,Light Heavyweight,United States
+955,Minoki Ichihara,67.0,178.0,Middleweight,Japan
+956,Art Jimmerson,73.0,196.0,Light Heavyweight,United States
+957,Patrick Smith,74.0,225.0,Heavyweight,United States
+958,Gerard Gordeau,77.0,216.0,Heavyweight,Netherlands
+959,Jason DeLucia,71.0,190.0,Light Heavyweight,United States
+960,Phillip Miller,71.0,182.0,Middleweight,United States
+961,Jim Miller,68.0,155.0,Lightweight,United States
+962,Nick Diaz,73.0,170.0,Welterweight,United States
+963,John Cholish,71.0,155.0,Lightweight,United States
+964,Jeff Cox,,155.0,Lightweight,United States
+965,Adriano Martins,70.0,154.0,Lightweight,Brazil
+966,Caol Uno,67.0,145.0,Featherweight,Japan
+967,Roman Mitichyan,70.0,155.0,Lightweight,Armenia
+968,Dennis Siver,67.0,145.0,Featherweight,Germany
+969,Billy Miles,70.0,185.0,Middleweight,United States
+970,George Roop,73.0,135.0,Bantamweight,United States
+971,Yan Cabral,72.0,170.0,Welterweight,Brazil
+972,Dave Roberts,73.0,203.0,Light Heavyweight,United States
+973,Thiago Tavares,67.0,145.0,Featherweight,Brazil
+974,Hermes Franca,66.0,155.0,Lightweight,Brazil
+975,David Lee,71.0,145.0,Featherweight,England
+976,James Lee,71.0,205.0,Light Heavyweight,United States
+977,David Bielkheden,70.0,170.0,Welterweight,Sweden
+978,Mac Danzig,68.0,155.0,Lightweight,United States
+979,Douglas Evans,69.0,144.0,Featherweight,United States
+980,Rodrigo Damm,67.0,145.0,Featherweight,Brazil
+981,Leonardo Santos,72.0,155.0,Lightweight,Brazil
+982,Per Eklund,70.0,145.0,Featherweight,Sweden
+983,T.J. Grant,70.0,155.0,Lightweight,Canada
+984,Rory Markham,72.0,177.0,Middleweight,United States
+985,Koji Oishi,68.0,145.0,Featherweight,Japan
+986,Junior Assuncao,69.0,145.0,Featherweight,Brazil
+987,Renee Forte,68.0,156.0,Lightweight,Brazil
+988,Gian Villante,74.0,205.0,Light Heavyweight,United States
+989,Shannon Gugerty,70.0,145.0,Featherweight,United States
+990,Justin Buchholz,71.0,155.0,Lightweight,United States
+991,Felipe Olivieri,,155.0,Lightweight,Brazil
+992,Miguel Torres,69.0,145.0,Featherweight,United States
+993,Dokonjonosuke Mishima,67.0,154.0,Lightweight,Japan
+994,Frank Mir,75.0,262.0,Heavyweight,United States
+995,Masanori Kanehara,67.0,135.0,Bantamweight,Japan
+996,T.J. Dillashaw,66.0,135.0,Bantamweight,United States
+997,Peter Sobotta,72.0,169.0,Welterweight,Germany
+998,Cub Swanson,67.0,145.0,Featherweight,United States
+999,Bas Rutten,73.0,205.0,Light Heavyweight,Netherlands
+1000,Kelvin Gastelum,69.0,170.0,Welterweight,United States
+1001,Brock Lesnar,75.0,264.0,Heavyweight,United States
+1002,Milana Dudieva,65.0,136.0,Bantamweight,Russia
+1003,Antonio Braga Neto,75.0,185.0,Middleweight,Brazil
+1004,Neil Magny,75.0,170.0,Welterweight,United States
+1005,Amir Sadollah,71.0,170.0,Welterweight,United States
+1006,Shane Carwin,74.0,254.0,Heavyweight,United States
+1007,Al Iaquinta,67.0,155.0,Lightweight,United States
+1008,Katsunori Kikuno,68.0,145.0,Featherweight,Japan
+1009,Forrest Griffin,75.0,205.0,Light Heavyweight,United States
+1010,Ronys Torres,68.0,155.0,Lightweight,Brazil
+1011,Lisa Ellis,64.0,110.0,Strawweight,United States
+1012,Mike Lullo,68.0,145.0,Featherweight,United States
+1013,Thales Leites,73.0,185.0,Middleweight,Brazil
+1014,Daniel Sarafian,69.0,185.0,Middleweight,Brazil
+1015,Ryan LaFlare,73.0,170.0,Welterweight,United States
+1016,Stipe Miocic,76.0,245.0,Heavyweight,United States
+1017,Sarah Kaufman,65.0,136.0,Bantamweight,Canada
+1018,Daniel Cormier,71.0,205.0,Light Heavyweight,United States
+1019,Cain Velasquez,73.0,241.0,Heavyweight,United States
+1020,Sara McMann,65.0,135.0,Bantamweight,United States
+1021,Chael Sonnen,73.0,205.0,Light Heavyweight,United States
+1022,Dustin Ortiz,65.0,125.0,Flyweight,United States
+1023,Isaac Vallie-Flagg,68.0,159.0,Welterweight,United States
+1024,Joseph Benavidez,64.0,125.0,Flyweight,United States
+1025,Ricardo Romero,72.0,205.0,Light Heavyweight,United States
+1026,Riki Fukuda,72.0,185.0,Middleweight,Japan
+1027,Renzo Gracie,70.0,171.0,Welterweight,Brazil
+1028,Gil Castillo,69.0,170.0,Welterweight,United States
+1029,Chris Haseman,71.0,198.0,Light Heavyweight,Australia
+1030,Marcelo Aguiar,68.0,168.0,Welterweight,Brazil
+1031,Akihiro Gono,69.0,155.0,Lightweight,Japan
+1032,Will Campuzano,69.0,125.0,Flyweight,United States
+1033,Antonio Banuelos,63.0,125.0,Flyweight,United States
+1034,Naoyuki Kotani,68.0,154.0,Lightweight,Japan
+1035,Frank Shamrock,70.0,185.0,Middleweight,United States
+1036,David Abbott,72.0,250.0,Heavyweight,United States
+1037,Roger Gracie,76.0,186.0,Middleweight,Brazil
+1038,Alex Schoenauer,75.0,185.0,Middleweight,United States
+1039,Trevor Prangley,72.0,205.0,Light Heavyweight,South Africa
+1040,Yuki Sasaki,72.0,180.0,Middleweight,Japan
+1041,Sanae Kikuta,69.0,200.0,Light Heavyweight,Japan
+1042,Zak Cummings,72.0,170.0,Welterweight,United States
+1043,Dante Rivera,72.0,170.0,Welterweight,United States
+1044,Paul Varelans,80.0,300.0,Super Heavyweight,United States
+1045,Mike Pierce,68.0,170.0,Welterweight,United States
+1046,Mark Eddiva,68.0,145.0,Featherweight,Philippines
+1047,Yui Chul Nam,69.0,145.0,Featherweight,South Korea
+1048,Joe Son,64.0,236.0,Heavyweight,United States
+1049,Fred Ettish,72.0,180.0,Middleweight,United States
+1050,Jon Fitch,72.0,183.0,Middleweight,United States
+1051,David Dodd,74.0,205.0,Light Heavyweight,United States
+1052,Fabio Gurgel,72.0,205.0,Light Heavyweight,Brazil
+1053,Johnny Rhodes,72.0,210.0,Heavyweight,United States
+1054,Ray Wizard,,,,United States
+1055,Rudyard Moncayo,70.0,205.0,Light Heavyweight,United States
+1056,Dave Beneteau,74.0,250.0,Heavyweight,Canada
+1057,Scott Morris,72.0,210.0,Heavyweight,United States
+1058,John Moraga,66.0,125.0,Flyweight,United States
+1059,Teila Tuli,74.0,415.0,Super Heavyweight,United States
+1060,Kevin Rosier,76.0,265.0,Heavyweight,United States
+1061,Iliarde Santos,63.0,123.0,Flyweight,Brazil
+1062,James Te Huna,73.0,185.0,Middleweight,Australia
+1063,Brian Bowles,67.0,135.0,Bantamweight,United States
+1064,Thiago Silva,73.0,208.0,Heavyweight,Brazil
+1065,Karo Parisyan,70.0,169.0,Welterweight,United States
+1066,Glover Teixeira,74.0,205.0,Light Heavyweight,Brazil
+1067,Shane Roller,70.0,155.0,Lightweight,United States
+1068,Nam Phan,66.0,141.0,Featherweight,United States
+1069,Eddie Mendez,69.0,185.0,Middleweight,United States
+1070,Chris Camozzi,75.0,185.0,Middleweight,United States
+1071,Colton Smith,72.0,170.0,Welterweight,United States
+1072,Dan Miller,73.0,185.0,Middleweight,United States
+1073,Brian Geraghty,67.0,155.0,Lightweight,United States
+1074,Cung Le,70.0,185.0,Middleweight,United States
+1075,Tarec Saffiedine,69.0,169.0,Welterweight,Belgium
+1076,Michael Graves,70.0,170.0,Welterweight,United States
+1077,Joe Slick,72.0,199.0,Light Heavyweight,USA
+1078,Trent Jenkins,74.0,185.0,Middleweight,United States
+1079,Scott Baker,72.0,210.0,Heavyweight,United States
+1080,Jake Shields,72.0,170.0,Welterweight,United States
+1081,Beneil Dariush,70.0,155.0,Lightweight,United States
+1082,Steve Lopez,71.0,155.0,Lightweight,United States
+1083,Chris Liguori,70.0,155.0,Lightweight,United States
+1084,Vagner Rocha,71.0,155.0,Lightweight,Brazil
+1085,Kuniyoshi Hironaka,70.0,153.0,Lightweight,Japan
+1086,Ashlee Evans-Smith,68.0,136.0,Bantamweight,United States
+1087,Robert Drysdale,75.0,205.0,Light Heavyweight,United States
+1088,Sean Soriano,69.0,145.0,Featherweight,United States
+1089,Frankie Perez,71.0,155.0,Lightweight,United States
+1090,Shane Howell,68.0,125.0,Flyweight,United States
+1091,Chris Wade,69.0,155.0,Lightweight,United States
+1092,Bec Rawlings,66.0,116.0,Strawweight,Australia
+1093,Mike Massenzio,74.0,185.0,Middleweight,United States
+1094,Islam Makhachev,70.0,155.0,Lightweight,Russia
+1095,Spencer Fisher,67.0,155.0,Lightweight,United States
+1096,Fabiano Iha,68.0,155.0,Lightweight,United States
+1097,Andre Pederneiras,68.0,160.0,Welterweight,Brazil
+1098,Dorian Price,75.0,155.0,Lightweight,United States
+1099,Andre Winner,71.0,155.0,Lightweight,England
+1100,Nate Mohr,69.0,155.0,Lightweight,United States
+1101,Jess Liaudin,69.0,170.0,Welterweight,France
+1102,Rob Font,68.0,135.0,Bantamweight,United States
+1103,Hatsu Hioki,71.0,145.0,Featherweight,Japan
+1104,Eddie Wineland,67.0,135.0,Bantamweight,United States
+1105,Takeya Mizugaki,67.0,135.0,Bantamweight,Japan
+1106,Jutaro Nakao,69.0,170.0,Welterweight,Japan
+1107,Eddie Alvarez,70.0,155.0,Lightweight,United States
+1108,Ben Rothwell,76.0,263.0,Heavyweight,United States
+1109,Dhiego Lima,74.0,170.0,Welterweight,Brazil
+1110,Dave Herman,76.0,223.0,Heavyweight,United States
+1111,James Head,74.0,170.0,Welterweight,United States
+1112,Marcelo Mello,,,,
+1113,Eddie Ruiz,67.0,155.0,Lightweight,USA
+1114,David Branch,73.0,185.0,Middleweight,United States
+1115,Mike Thomas Brown,66.0,145.0,Featherweight,United States
+1116,Drew Dober,68.0,155.0,Lightweight,United States
+1117,Mitch Gagnon,66.0,135.0,Bantamweight,Canada
+1118,Wilson Reis,64.0,125.0,Flyweight,Brazil
+1119,Vaughan Lee,65.0,135.0,Bantamweight,England
+1120,Todd Duffee,75.0,241.0,Heavyweight,United States
+1121,Ben Earwood,,169.0,Welterweight,
+1122,Besam Yousef,71.0,170.0,Welterweight,Sweden
+1123,Brian Gassaway,72.0,171.0,Welterweight,United States
+1124,Tom Speer,71.0,170.0,Welterweight,United States
+1125,Jason Von Flue,72.0,170.0,Welterweight,United States
+1126,Alberto Crane,69.0,155.0,Lightweight,United States
+1127,Anthony Lapsley,69.0,170.0,Welterweight,United States
+1128,Tony Martin,72.0,156.0,Lightweight,United States
+1129,Rani Yahya,66.0,135.0,Bantamweight,Brazil
+1130,Julio Paulino,72.0,170.0,Welterweight,United States
+1131,Joao Marcos Pierini,73.0,170.0,Welterweight,Mexico
+1132,Bethe Correia,64.0,135.0,Bantamweight,Brazil
+1133,Demian Maia,72.0,170.0,Welterweight,Brazil
+1134,Sam Sicilia,68.0,145.0,Featherweight,United States
+1135,Ryan Couture,70.0,156.0,Lightweight,United States
+1136,Akira Corassani,68.0,145.0,Featherweight,Sweden
+1137,Dylan Andrews,73.0,185.0,Middleweight,New Zealand
+1138,Joe Proctor,70.0,155.0,Lightweight,United States
+1139,Brodie Farber,73.0,205.0,Light Heavyweight,United States
+1140,Paul Rodriguez,68.0,155.0,Lightweight,United States
+1141,Christian Morecraft,78.0,261.0,Heavyweight,United States
+1142,Viscardi Andrade,72.0,170.0,Welterweight,Brazil
+1143,Takenori Sato,70.0,170.0,Welterweight,Japan
+1144,Hernani Perpetuo,72.0,170.0,Welterweight,Brazil
+1145,George Sullivan,72.0,169.0,Welterweight,United States
+1146,Cesar Marcussi,,155.0,Lightweight,Brazil
+1147,Sean O'Connell,73.0,205.0,Light Heavyweight,United States
+1148,Kazuki Tokudome,71.0,154.0,Lightweight,Japan
+1149,Andy Wang,66.0,155.0,Lightweight,United States
+1150,Scott Bessac,76.0,259.0,Heavyweight,United States
+1151,Jason Godsey,74.0,245.0,Heavyweight,United States
+1152,Tim Elliott,67.0,125.0,Flyweight,United States
+1153,Motonobu Tezuka,67.0,135.0,Bantamweight,Japan
+1154,Amaury Bitetti,69.0,185.0,Middleweight,Brazil
+1155,Paulo Thiago,71.0,170.0,Welterweight,Brazil
+1156,Ronny Markes,73.0,190.0,Light Heavyweight,Brazil
+1157,Matt Veach,67.0,170.0,Welterweight,United States
+1158,Kurt Holobaugh,71.0,145.0,Featherweight,United States
+1159,David Branch,,154.0,Lightweight,United States
+1160,Kyle Watson,72.0,155.0,Lightweight,United States
+1161,Frank Caracci,67.0,205.0,Light Heavyweight,United States
+1162,Josh Rafferty,72.0,169.0,Welterweight,United States
+1163,Russell Doane,66.0,135.0,Bantamweight,United States
+1164,Brian Foster,70.0,155.0,Lightweight,United States
+1165,Nick Pace,67.0,135.0,Bantamweight,United States
+1166,Charlie Valencia,63.0,135.0,Bantamweight,United States
+1167,Jonathan Brookins,72.0,135.0,Bantamweight,United States
+1168,Fredson Paixao,70.0,145.0,Featherweight,England
+1169,Cheick Kongo,76.0,234.0,Heavyweight,France
+1170,Antoni Hardonk,76.0,240.0,Heavyweight,Holland
+1171,Rin Nakai,61.0,135.0,Bantamweight,Japan
+1172,Justin Scoggins,67.0,125.0,Flyweight,United States
+1173,Issei Tamura,65.0,145.0,Featherweight,Japan
+1174,Raphael Assuncao,65.0,135.0,Bantamweight,Brazil
+1175,Amilcar Alves,72.0,201.0,Light Heavyweight,Brazil
+1176,Brian Melancon,68.0,170.0,Welterweight,United States
+1177,Elizabeth Phillips,66.0,135.0,Bantamweight,United States
+1178,Brock Larson,71.0,170.0,Welterweight,United States
+1179,Rodrigo Goiana de Lima,69.0,155.0,Lightweight,Brazil
+1180,Jon Manley,72.0,170.0,Welterweight,United States
+1181,Christian Wellisch,74.0,234.0,Heavyweight,United States
+1182,Neil Wain,70.0,242.0,Heavyweight,England
+1183,Nordine Taleb,73.0,170.0,Welterweight,Canada
+1184,Warlley Alves,71.0,170.0,Welterweight,Brazil
+1185,Quinn Mulhern,75.0,155.0,Lightweight,United States
+1186,John Halverson,69.0,155.0,Lightweight,United States
+1187,Hector Ramirez,72.0,205.0,Light Heavyweight,United States
+1188,Denis Kang,71.0,185.0,Middleweight,Canada
+1189,Keigo Kunihara,72.0,228.0,Heavyweight,Japan
+1190,Seo Hee Ham,62.0,115.0,Strawweight,South Korea
+1191,Emily Kagan,63.0,115.0,Strawweight,United States
+1192,Waylon Lowe,67.0,160.0,Welterweight,United States
+1193,Eugenio Tadeu,68.0,160.0,Welterweight,Brazil
+1194,Nissen Osterneck,74.0,185.0,Middleweight,United States
+1195,Tom DeBlass,,,,
+1196,Kenny Robertson,70.0,170.0,Welterweight,United States
+1197,Karolina Kowalkiewicz,63.0,114.0,Strawweight,Poland
+1198,Ryan Jensen,70.0,175.0,Middleweight,United States
+1199,Floyd Sword,71.0,185.0,Middleweight,United States
+1200,Flavio Luiz Moura,71.0,187.0,,Brazil
+1201,Frankie Saenz,66.0,135.0,Bantamweight,United States
+1202,Shane del Rosario,75.0,246.0,Heavyweight,United States
+1203,Jake O'Brien,75.0,205.0,Light Heavyweight,United States
+1204,Brad Morris,73.0,253.0,Heavyweight,Australia
+1205,Lauren Murphy,68.0,134.0,Bantamweight,United States
+1206,Amar Suloev,69.0,185.0,Middleweight,Armenia
+1207,Tim McKenzie,71.0,174.0,Middleweight,United States
+1208,Homer Moore,70.0,205.0,Light Heavyweight,United States
+1209,Elias Silverio,71.0,155.0,Lightweight,Brazil
+1210,Isaac Vallie-Flagg,68.0,159.0,Welterweight,United States
+1211,Willie Gates,68.0,125.0,Flyweight,United States
+1212,Yasuhiro Urushitani,65.0,125.0,Flyweight,Japan
+1213,Brad Tavares,71.0,185.0,Middleweight,United States
+1214,Brandon Wolff,70.0,168.0,Welterweight,United States
+1215,Luke Zachrich,74.0,185.0,Middleweight,United States
+1216,Chris Dempsey,70.0,205.0,Light Heavyweight,United States
+1217,Jake O'Brien,75.0,205.0,Light Heavyweight,United States
+1218,Ramsey Nijem,71.0,155.0,Lightweight,United States
+1219,Buddy Roberts,74.0,185.0,Middleweight,United States
+1220,C.J. Keith,72.0,155.0,Lightweight,United States
+1221,Collin Hart,74.0,185.0,Middleweight,United States
+1222,Tulio Palhares,70.0,180.0,Middleweight,Brazil
+1223,Jermaine Andre,67.0,185.0,Middleweight,United States
+1224,Geza Kalman,,,,
+1225,Adrian Serrano,68.0,175.0,Middleweight,United States
+1226,Dave Strasser,70.0,167.0,Welterweight,United States
+1227,Mike Ciesnolevicz,72.0,204.0,Light Heavyweight,United States
+1228,Evan Tanner,72.0,185.0,Middleweight,United States
+1229,Mike Van Arsdale,74.0,205.0,Light Heavyweight,United States
+1230,Carlos Barreto,76.0,230.0,Heavyweight,Brazil
+1231,Brad Kohler,69.0,220.0,Heavyweight,United States
+1232,Kenichi Yamamoto,71.0,185.0,Middleweight,Japan
+1233,Murilo Bustamante,73.0,185.0,Middleweight,Brazil
+1234,CJ Fernandes,72.0,170.0,Welterweight,USA
+1235,Ivan Salaverry,72.0,185.0,Middleweight,United States
+1236,Joby Sanchez,66.0,125.0,Flyweight,United States
+1237,Anton Kuivanen,69.0,155.0,Lightweight,Finland
+1238,Kevin Jackson,70.0,199.0,Light Heavyweight,United States
+1239,Igor Zinoviev,73.0,195.0,Light Heavyweight,Russia
+1240,Steve Nelmark,72.0,250.0,Heavyweight,USA
+1241,Allan Goes,72.0,205.0,Light Heavyweight,United States
+1242,Hugo Duarte,72.0,240.0,Heavyweight,Brazil
+1243,Scott Ferrozzo,71.0,323.0,Super Heavyweight,United States
+1244,Cal Worsham,70.0,230.0,Heavyweight,United States
+1245,John Matua,74.0,400.0,Super Heavyweight,United States
+1246,Steve Jennum,70.0,215.0,Heavyweight,United States
+1247,Sam Adkins,75.0,225.0,Heavyweight,United States
+1248,Lodune Sincaid,69.0,185.0,Middleweight,United States
+1249,Andrei Semenov,72.0,185.0,Middleweight,Russia
+1250,Curtis Stout,73.0,185.0,Middleweight,USA
+1251,Sean Salmon,70.0,205.0,Light Heavyweight,United States
+1252,Keith Rockel,72.0,185.0,Middleweight,United States
+1253,Paul Jones,69.0,198.0,Light Heavyweight,United States
+1254,Mark Hall,72.0,190.0,Light Heavyweight,United States
+1255,Joe Moreira,,,,
+1256,Sean O'Connell,73.0,205.0,Light Heavyweight,United States
+1257,Gerry Harris,80.0,313.0,Super Heavyweight,United States
+1258,Ronny Markes,73.0,190.0,Light Heavyweight,Brazil
+1259,Sheldon Westcott,73.0,170.0,Welterweight,Canada
+1260,Carlos Eduardo Rocha,70.0,170.0,Welterweight,Brazil
+1261,Konstantin Erokhin,71.0,233.0,Heavyweight,Russia
+1262,David Levicki,77.0,290.0,Super Heavyweight,United States
+1263,Wilson Gouveia,74.0,219.0,Heavyweight,United States
+1264,Solomon Hutcherson,71.0,185.0,Middleweight,United States
+1265,Jerry Bohlander,71.0,199.0,Light Heavyweight,United States
+1266,Tyrone Roberts,69.0,213.0,Heavyweight,United States
+1267,Mike McClain,,,,
+1268,Sean Daugherty,70.0,190.0,Light Heavyweight,United States
+1269,Houston Dorr,72.0,205.0,Light Heavyweight,USA
+1270,Marcus Bossett,73.0,220.0,Heavyweight,United States
+1271,Joe Charles,73.0,260.0,Heavyweight,United States
+1272,Zane Frazier,78.0,230.0,Heavyweight,United States
+1273,Aaron Rosa,75.0,205.0,Light Heavyweight,United States
+1274,Matt Hamill,74.0,205.0,Light Heavyweight,United States
+1275,Stanislav Nedkov,71.0,203.0,Light Heavyweight,Bulgaria
+1276,Dustin Jacoby,76.0,185.0,Middleweight,United States
+1277,Carlos Diego Ferreira,68.0,156.0,Lightweight,Brazil
+1278,Jake Rosholt,73.0,205.0,Light Heavyweight,United States
+1279,John Salter,73.0,185.0,Middleweight,United States
+1280,Nolan Ticman,66.0,125.0,Flyweight,United States
+1281,,,183.0,Middleweight,
+1282,Bubba McDaniel,75.0,190.0,Light Heavyweight,United States
+1283,Chase Gormley,75.0,264.0,Heavyweight,United States
+1284,Edgar Garcia,70.0,170.0,Welterweight,United States
+1285,Lisa Ellis,64.0,110.0,Strawweight,United States
+1286,Bristol Marunde,73.0,171.0,Welterweight,United States
+1287,Rob MacDonald,75.0,230.0,Heavyweight,Canada
+1288,Daiju Takase,72.0,183.0,Middleweight,Japan
+1289,Kris Rotharmel,72.0,205.0,Light Heavyweight,USA
+1290,Satoshi Honma,72.0,204.0,Light Heavyweight,Japan
+1291,Jack McLaughlin,70.0,218.0,Heavyweight,United States
+1292,Tony Petarra,71.0,196.0,Light Heavyweight,United States
+1293,John Lewis,72.0,160.0,Welterweight,United States
+1294,Joel Sutton,70.0,202.0,Light Heavyweight,United States
+1295,Josh Stuart,69.0,159.0,Welterweight,United States
+1296,Mike Russow,73.0,256.0,Heavyweight,United States
+1297,Royce Alger,,,,
+1298,Wallid Ismail,67.0,182.0,Middleweight,Brazil
+1299,Vinc Pichel,70.0,155.0,Lightweight,United States
+1300,Ryan Hall,70.0,145.0,Featherweight,United States
+1301,Ashlee Evans-Smith,68.0,136.0,Bantamweight,United States
+1302,Johnny Rees,72.0,178.0,Middleweight,United States
+1303,Mike Stumpf,70.0,170.0,Welterweight,United States
+1304,Keith Berish,72.0,203.0,Light Heavyweight,United States
+1305,Jake Collier,75.0,185.0,Middleweight,United States
+1306,Joe Veres,66.0,155.0,Lightweight,United States
+1307,Igor Araujo,73.0,170.0,Welterweight,
+1308,Michinori Tanaka,65.0,135.0,Bantamweight,Japan
+1309,Aaron Riley,69.0,155.0,Lightweight,United States
+1310,Joao Roque,66.0,145.0,Featherweight,Angola
+1311,Joey Gilbert,65.0,154.0,Lightweight,United States
+1312,Shane Primm,76.0,185.0,Middleweight,United States
+1313,Romie Aram,70.0,170.0,Welterweight,United States
+1314,Joseph Sandoval,66.0,135.0,Bantamweight,United States
+1315,Joey Gomez,68.0,135.0,Bantamweight,United States
+1316,Yaotzin Meza,69.0,145.0,Featherweight,United States
+1317,Jordan Radev,67.0,170.0,Welterweight,Bulgaria
+1318,Teemu Packalen,73.0,155.0,Lightweight,Finland
+1319,Ron Faircloth,69.0,205.0,Light Heavyweight,United States
+1320,Brendan Loughnane,70.0,145.0,Featherweight,England
+1321,Jessica Rakoczy,67.0,115.0,Strawweight,Canada
+1322,Kalib Starnes,75.0,205.0,Light Heavyweight,Canada
+1323,Garett Whiteley,72.0,155.0,Lightweight,United States
+1324,T.J. Waldburger,71.0,170.0,Welterweight,United States
+1325,Josh Shockley,73.0,155.0,Lightweight,United States
+1326,Henry Martinez,67.0,155.0,Lightweight,United States
+1327,Aaron Brink,75.0,203.0,Light Heavyweight,United States
+1328,Niklas Backstrom,72.0,145.0,Featherweight,Sweden
+1329,Per Eklund,70.0,145.0,Featherweight,Sweden
+1330,Cale Yarbrough,74.0,203.0,Light Heavyweight,United States
+1331,Michael Patt,72.0,205.0,Light Heavyweight,United States
+1332,Sean Alvarez,72.0,235.0,Heavyweight,USA
+1333,Assuerio Silva,73.0,235.0,Heavyweight,Brazil
+1334,Mark Hughes,68.0,185.0,Middleweight,USA
+1335,Gideon Ray,70.0,170.0,Welterweight,United States
+1336,Jan Blachowicz,74.0,205.0,Light Heavyweight,Poland
+1337,Mats Nilsson,73.0,185.0,Middleweight,Sweden
+1338,Rick Davis,,155.0,Lightweight,USA
+1339,Luke Cummo,72.0,170.0,Welterweight,United States
+1340,Justin James,70.0,155.0,Lightweight,USA
+1341,Nick Agallar,,155.0,Lightweight,United States
+1342,Jeremy Larsen,70.0,145.0,Featherweight,United States
+1343,War Machine,71.0,170.0,Welterweight,United States
+1344,James Giboo,71.0,170.0,Welterweight,USA
+1345,Kelly Dullanty,68.0,155.0,Lightweight,USA
+1346,Rob Yundt,,185.0,Middleweight,USA
+1347,Cristiano Marcello,70.0,155.0,Lightweight,Brazil
+1348,Magomed Mustafaev,69.0,155.0,Lightweight,Russia
+1349,Jason Gilliam,72.0,169.0,Welterweight,United States
+1350,Paul Georgieff,,155.0,Lightweight,United States
+1351,Joe Vedepo,72.0,185.0,Middleweight,United States
+1352,Crafton Wallace,72.0,184.0,Middleweight,United States
+1353,Tom Murphy,74.0,205.0,Light Heavyweight,United States
+1354,Yusuke Kasuya,67.0,154.0,Lightweight,Japan
+1355,Tiki Ghosn,70.0,169.0,Welterweight,United States
+1356,Brad Gumm,71.0,170.0,Welterweight,United States
+1357,Andre Roberts,74.0,345.0,Super Heavyweight,United States
+1358,Dan Evensen,,,,Norway
+1359,Greg Soto,71.0,170.0,Welterweight,United States
+1360,Ross Pointon,68.0,205.0,Light Heavyweight,England
+1361,Paulo Santos,,,,
+1362,Rodrigo Ruas,,185.0,Middleweight,Brazil
+1363,Jason Tan,70.0,170.0,Welterweight,England
+1364,Tom Breese,75.0,170.0,Welterweight,England
+1365,David Hood,72.0,189.0,Light Heavyweight,United States
+1366,Bobby Southworth,73.0,228.0,Heavyweight,United States
+1367,Royce Gracie,72.0,176.0,Middleweight,Brazil
+1368,Luiz Jorge Dutra Jr.,71.0,170.0,Welterweight,Brazil
+1369,Mickey Gall,,170.0,Welterweight,United States
+1370,Jules Bruchez,72.0,184.0,Middleweight,United States
+1371,Jason Reinhardt,66.0,135.0,Bantamweight,United States
+1372,Jesse Sanders,73.0,170.0,Welterweight,United States
+1373,Justin Martin,72.0,205.0,Light Heavyweight,United States
+1374,Kit Cope,72.0,167.0,Welterweight,United States
+1375,Byron Bloodworth,69.0,135.0,Bantamweight,United States
+1376,Albert Cheng,71.0,156.0,Lightweight,Canada
+1377,Miguel Torres,69.0,145.0,Featherweight,United States
+1378,Jianping Yang,68.0,140.0,Featherweight,China
+1379,Mostapha Al-Turk,74.0,235.0,Heavyweight,England
+1380,Nate Schroeder,73.0,230.0,Heavyweight,United States
+1381,Matt Dwyer,76.0,168.0,Welterweight,Canada
+1382,Colin Robinson,76.0,243.0,Heavyweight,Northern Ireland
+1383,Hans Stringer,74.0,205.0,Light Heavyweight,Netherlands
+1384,Jocelyn Jones-Lybarger,67.0,115.0,Strawweight,United States
+1385,Timothy Johnson,75.0,264.0,Heavyweight,United States
+1386,Yuri Villefort,71.0,156.0,Lightweight,United States
+1387,Jason Thacker,72.0,185.0,Middleweight,Canada
+1388,Tom Blackledge,72.0,205.0,Light Heavyweight,England
+1389,Rolles Gracie,76.0,249.0,Heavyweight,Brazil
+1390,Kailin Curran,63.0,113.0,Strawweight,United States
+1391,Sultan Aliev,72.0,185.0,Middleweight,Russia
+1392,John Kolosci,71.0,155.0,Lightweight,United States
+1393,Thiago de Oliveira Perpetuo,70.0,170.0,Welterweight,Brazil
+1394,Izabela Badurek,64.0,115.0,Strawweight,Poland
+1395,Lauren Murphy,68.0,134.0,Bantamweight,United States
+1396,Bartosz Fabinski,72.0,184.0,Middleweight,Poland
+1397,Kelly Faszholz,68.0,145.0,Featherweight,United States
+1398,Viktor Pesta,75.0,240.0,Heavyweight,Czech Republic
+1399,Anthony Christodoulou,69.0,155.0,Lightweight,Greece
+1400,Nikita Krylov,75.0,205.0,Light Heavyweight,Ukraine
+1401,Darrell Gholar,68.0,198.0,Light Heavyweight,United States
+1402,Tedd Williams,72.0,250.0,Heavyweight,United States
+1403,Larissa Pacheco,68.0,135.0,Bantamweight,Brazil
+1404,Larissa Pacheco,68.0,135.0,Bantamweight,Brazil
+1405,Daniel Kelly,72.0,185.0,Middleweight,Australia
+1406,Scott Askham,75.0,185.0,Middleweight,England
+1407,Rex Holman,75.0,205.0,Light Heavyweight,USA
+1408,Andrew Holbrook,71.0,155.0,Lightweight,United States
+1409,Joe Merritt,72.0,169.0,Welterweight,United States
+1410,Wagner Prado,73.0,205.0,Light Heavyweight,Brazil
+1411,Nate Loughran,74.0,170.0,Welterweight,United States
+1412,Adriano Santos,,,,
+1413,Joey Roberts,74.0,200.0,Light Heavyweight,
+1414,Noe Hernandez,,,,
+1415,Matt Andersen,74.0,245.0,Heavyweight,USA
+1416,Dieuseul Berto,69.0,200.0,Light Heavyweight,United States
+1417,Ansar Chalangov,69.0,185.0,Middleweight,Russia
+1418,Ivan Serati,73.0,225.0,Heavyweight,Italy
+1419,Cory Walmsley,72.0,205.0,Light Heavyweight,United States
+1420,Andre Gusmao,74.0,185.0,Middleweight,Brazil
+1421,Icho Larenas,73.0,235.0,Heavyweight,Canada
+1422,Joe Pardo,73.0,210.0,Heavyweight,USA
+1423,Felix Mitchell,71.0,220.0,Heavyweight,United States
+1424,Tony Halme,76.0,300.0,Super Heavyweight,Finnland
+1425,Steve Judson,73.0,220.0,Heavyweight,United States
+1426,John Dowdy,,,,United States
+1427,Chris Spang,74.0,171.0,Welterweight,United States
+1428,Mike King,75.0,184.0,Middleweight,United States
+1429,Todd Butler,73.0,198.0,Light Heavyweight,USA
+1430,Tai Bowden,,,,
+1431,Harry Moskowitz,77.0,275.0,Super Heavyweight,United States
+1432,Harold Howard,74.0,240.0,Heavyweight,Canada
+1433,Jim Mullen,73.0,215.0,Heavyweight,United States
+1434,Sam Fulton,74.0,250.0,Heavyweight,United States
+1435,Melton Bowen,72.0,225.0,Heavyweight,United States
+1436,Bob Gilstrap,75.0,210.0,Heavyweight,United States
+1437,Keith Mielke,69.0,187.0,,United States
+1438,Justin Eilers,73.0,235.0,Heavyweight,United States
+1439,Jeff Newton,74.0,204.0,Light Heavyweight,United States
+1440,Koji Kitao,79.0,390.0,Super Heavyweight,Japan
+1441,Yuri Vaulin,76.0,207.0,,Latvia
+1442,Paul Herrera,,,,USA
+1443,Misha Cirkunov,75.0,205.0,Light Heavyweight,Latvia
+1444,Nick Sanzo,69.0,190.0,Light Heavyweight,United States
+1445,Rainy Martinez,72.0,195.0,Light Heavyweight,United States
+1446,Dwayne Cason,70.0,212.0,Heavyweight,USA
+1447,Krzysztof Jotko,73.0,185.0,Middleweight,Poland
+1448,Zhikui Yao,67.0,125.0,Flyweight,China
+1449,Eliot Marshall,75.0,205.0,Light Heavyweight,United States
+1450,Jon Madsen,72.0,222.0,Heavyweight,United States
+1451,Lowell Anderson,66.0,158.0,Welterweight,United States
+1452,Reginaldo Vieira,66.0,125.0,Flyweight,Brazil
+1453,Jason Saggo,71.0,155.0,Lightweight,Canada
+1454,Marco Polo Reyes,,155.0,Lightweight,Mexico
+1455,Edson Barboza,71.0,155.0,Lightweight,Brazil
+1456,Steve Byrnes,,185.0,Middleweight,United States
+1457,Bec Rawlings,66.0,116.0,Strawweight,Australia
+1458,Joaquim Silva,68.0,155.0,Lightweight,Brazil
+1459,Darren Till,72.0,170.0,Welterweight,England
+1460,Steven Lynch,70.0,170.0,Welterweight,Northern Ireland
+1461,Ren&#233; van de Zande,,,,Holland
+1462,Lars Nor&#233;n,,,,
+1463,Arnold Allen,69.0,145.0,Featherweight,England
+1464,Damian Stasiak,68.0,145.0,Featherweight,Poland
+1465,Danny Abbadi,71.0,185.0,Middleweight,United States
+1466,Alan Omer,69.0,145.0,Featherweight,Iraq
+1467,Jocelyn Jones-Lybarger,67.0,115.0,Strawweight,United States
+1468,Mitch Gagnon,66.0,135.0,Bantamweight,Canada
+1469,Daniel Barrera,,170.0,Welterweight,United States
+1470,Jack Nilson,,,,
+1471,T.J. Grant,70.0,155.0,Lightweight,Canada
+1472,Erick Montano,,170.0,Welterweight,Mexico
+1473,Nate Diaz,70.0,155.0,Lightweight,
+1474,Aleksandra Albu,62.0,115.0,Strawweight,Russia
+1475,Sean Gannon,75.0,265.0,Heavyweight,United States
+1476,Freddy Serrano,62.0,125.0,Flyweight,Colombia
+1477,Troy Mandaloniz,69.0,170.0,Welterweight,United States
+1478,Ironman 238,,145.0,Featherweight,Japan
+1479,Dave Galera,71.0,135.0,Bantamweight,Philippines
+1480,Mike Jackson,74.0,170.0,Welterweight,United States
+1481,Matheus Nicolau Pereira,66.0,135.0,Bantamweight,Brazil
+1482,Alex Nicholson,76.0,227.0,Heavyweight,United States
+1483,Eric Martin,,,,
+1484,Leonardo Morales,71.0,137.0,,Nicaragua
+1485,Anying Wang,72.0,170.0,Welterweight,Mongolia
+1486,Randy Brown,74.0,171.0,Welterweight,Jamaica
+1487,Dileno Lopes,,135.0,Bantamweight,Brazil
+1488,Alvaro Herrera,72.0,170.0,Welterweight,Mexico
+1489,Chris Indich,70.0,170.0,Welterweight,Australia
+1490,Alex Torres,70.0,145.0,Featherweight,Colombia
+1491,Lance Benoist,71.0,170.0,Welterweight,United States
+1492,Daniel Omielanczuk,72.0,242.0,Heavyweight,Poland
+1493,Luis Henrique Barbosa de Oliveira,75.0,243.0,Heavyweight,Brazil
+1494,Matt Arroyo,72.0,155.0,Lightweight,United States
+1495,Christophe Leninger,72.0,200.0,Light Heavyweight,United States
+1496,Kyle Bochniak,69.0,145.0,Featherweight,United States
+1497,Richie Hightower,,155.0,Lightweight,United States
+1498,Chris Sanford,71.0,185.0,Middleweight,United States
+1499,Derek Brunson,73.0,186.0,Middleweight,United States
+1500,Diego Rivas,,143.0,Featherweight,Chile
+1501,Francis Ngannou,76.0,250.0,Heavyweight,France
+1502,Brendan O'Reilly,68.0,170.0,Welterweight,Australia
+1503,Justine Kish,65.0,116.0,Strawweight,United States
+1504,Jason Knight,71.0,145.0,Featherweight,United States
+1505,Efrain Escudero,69.0,155.0,Lightweight,United States
+1506,Ericka Almeida,66.0,115.0,Strawweight,Brazil
+1507,Enrique Barzola,67.0,145.0,Featherweight,Peru
+1508,Bruno Rodrigues,66.0,125.0,Flyweight,Brazil
+1509,Vernon Ramos,69.0,168.0,Welterweight,Panama
+1510,Horacio Gutierrez,70.0,145.0,Featherweight,Mexico
+1511,Chris de la Rocha,75.0,245.0,Heavyweight,United States
+1512,Kyoji Horiguchi,65.0,125.0,Flyweight,Japan
+1513,Rocky Lee,69.0,145.0,Featherweight,Taiwan
+1514,Royston Wee,67.0,137.0,,Singapore
+1515,Tateki Matsuda,67.0,125.0,Flyweight,United States
+1516,Humberto Brown Morrison,69.0,145.0,Featherweight,Panama
+1517,Matt Hobar,70.0,135.0,Bantamweight,United States
+1518,Ian Entwistle,68.0,136.0,Bantamweight,England
+1519,Philip De Fries,76.0,248.0,Heavyweight,England
+1520,Ryo Chonan,69.0,169.0,Welterweight,Japan
+1521,Ken Stone,68.0,135.0,Bantamweight,United States
+1522,Dale Hartt,70.0,155.0,Lightweight,United States
+1523,Clay Harvison,73.0,160.0,Welterweight,United States
+1524,Marcus Jones,78.0,265.0,Heavyweight,United States
+1525,Scott Adams,72.0,225.0,Heavyweight,
+1526,Chris Condo,,,,
+1527,Paul Creighton,66.0,155.0,Lightweight,USA
+1528,Sione Latu,,,,
+1529,Townsend Saunders,65.0,170.0,Welterweight,United States
+1530,Courtney Turner,74.0,175.0,Middleweight,USA
+1531,Steven Graham,73.0,290.0,Super Heavyweight,USA
+1532,Alex Hunter,69.0,226.0,Heavyweight,USA
+1533,Saeed Hosseini,,,,
+1534,Donnie Chappell,,,,
+1535,Dmitri Stepanov,,,,
+1536,Wes Albritton,,,,
+1537,John Campetella,69.0,235.0,Heavyweight,USA
+1538,Reza Nasri,71.0,205.0,Light Heavyweight,"Iran, Islamic Republic of"
+1539,Scott Fiedler,76.0,235.0,Heavyweight,United States
+1540,Jackie Lee,,,,
+1541,Dave Berry,,,,
+1542,Julian Sanchez,75.0,300.0,Super Heavyweight,United States
+1543,Mark Schultz,70.0,203.0,Light Heavyweight,United States
+1544,Rafael Carino,80.0,245.0,Heavyweight,Brazil
+1545,Larry Cureton,74.0,248.0,Heavyweight,United States
+1546,Thomas Ramirez,73.0,410.0,Super Heavyweight,Puerto Rico
+1547,Onassis Parungao,,,,
+1548,Francesco Maturi,75.0,235.0,Heavyweight,United States
+1549,Roland Payne,69.0,205.0,Light Heavyweight,United States
+1550,Alberto Cerra Leon,68.0,231.0,Heavyweight,Spain
+1551,Ernie Verdicia,70.0,219.0,Heavyweight,United States
+1552,He-Man Ali Gipson,,216.0,Heavyweight,United States
+1553,Andy Anderson,69.0,240.0,Heavyweight,United States
+1554,Eldo Dias Xavier,71.0,180.0,Middleweight,Brazil
+1555,Robert Lucarelli,74.0,245.0,Heavyweight,United States
+1556,Thaddeus Luster,75.0,200.0,Light Heavyweight,United States
+1557,Frank Hamaker,74.0,245.0,Heavyweight,Netherlands
+1558,Ryan Parker,75.0,235.0,Heavyweight,United States
+1559,Marcus Davis,68.0,170.0,Welterweight,United States
+1560,John Alessio,70.0,155.0,Lightweight,Canada
