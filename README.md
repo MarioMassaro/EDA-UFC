@@ -12,6 +12,8 @@
     -Esquina de ring con mas victorias
     -Peleadores mas populares con mas apariciones
     -Peleas por año
+    
+![bla](https://user-images.githubusercontent.com/78017846/117438299-aca9ce80-af31-11eb-9f6a-a9623ebbc6b5.PNG)
   
 ### Este proyecto tiene todos los procedimientos, toda la limpieza de datos y los dataframes originales
 
